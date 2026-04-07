@@ -1,0 +1,9 @@
+project:
+  title: "Portuguese in Newark"
+  render:
+    - "*.qmd"
+    - "!./docs/lit/"
+    - "README.qmd"
+
+bibliography: ./lit/pt_in_newark.bib
+csl: ./lit/apa.csl
