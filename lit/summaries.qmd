@@ -6,6 +6,8 @@ format: pdf
 
 # Article Summaries
 
+Note: If I can't find the article yet, I just put the abstract. 
+
 ## @stephens1989language
 
 Portuguese in USA. Arrivals began in 1820s, picked up in 1830s with arrival fo Lusitanian and Azorean. Congregated to New England, specifically MA. 1850s, to California (San Fran).
@@ -42,11 +44,17 @@ Dual-immersion EN-PT program in K-8 school in MA resulted in greater awareness o
 
 Dialectal differences do not result in communicative breakdown between students (Rubinstein-Avila, 2002; Ferreira, 2005).
 
-## osborne2021perception
+## @osborne2021perception
 
-The main goal of this study is to investigate the perception of Portuguese mid-vowel contrasts (/ɛ/-/e/ and /ɔ/-/o/) by heritage speakers (HSs) of Brazilian Portuguese (BP) who grew up in the United States. This study shows, for instance, an asymmetry in categorization as a function of degree of language dominance for mid-back vowel contrast, but not for mid-front vowel contrast.
+Mid vowel contrasts as the last to be acquired by L1 speakers (Matzenauer & Costa, 2017). Low functional load with few minimal pairs (Alves, 2008).
 
-I wonder if this is because of cot-caught merger? Would be interesting to investigate to see if L1 PT L1 EN or switch dominance L1 PT L2 EN with and without cot-caught merger perform differently in PT.
+12 BR-PT heritage speakers. Completed BLP (all except one was English-dominant, but pretty large range).
+
+AXB discrimination. Check article for list of stimuli.
+
+2AFC identification task.
+
+Heritage speakers accurately categorize PT mid vowels, but higher EN dominance predicted more trouble with /ɔ/-/o/. Amengual (2015) found the same asymmetry for ES-Catalan bilinguals. 
 
 ## @rothman2014portuguese
 
@@ -58,8 +66,23 @@ Summary of heritage speakers learning in college, focused on dialectal differenc
 
 ## @silva2010starting
 
-Developing a heritage speaker track in college for PT. Focus on dialectal differences. 
+Developing a heritage speaker track in college for PT. Focus on dialectal differences.
 
+## @amadeo2025perception
+
+Escudero et al. (2009; "A cross-dialect acoustic description of vowels: Brazilian and European Portuguese) and Rato & Carlet (2020) show that BR-PT and PT-PT share some similarities in their vowel inventory.
+
+Diaz-Granado (2011) found that /e ~ ɛ/ in English & Portuguese are not similar, so L1 En L2 Pt are expected to collapse PT /e ~ ɛ/ into a single category. Tested L1 En L2 Pt and L1 En L2 Es L3 Pt. L3 learners performed better. But there were only 12 in the first group, 5 in the second.
+
+Kendall (2004) tested 20 beginning and advanced L1 En L2 Pt learners on BP mid vowels. They did poorly.
+
+Vasiliev (2013) tested L1 English L2 Pt stressed oral vowels. /e ~ ɛ/ was second-easiest.
+
+Elvin et al. (2018) L1 En monolinguals, En-Es bilinguals tested on discrimination task for Pt-Pt and Pt-Br. /o ~ ɔ/ easier in EP than BP, which was second-easiest to discriminate. Participants had more trouble with /i ~ e/ and /u ~ o/.
+
+Summary: For L1 US En, /e ɛ o c/ are hardest to discriminate; /e ~ ɛ, o ~ ɔ, e ~ i, o ~ u/ are most challenging minimal pairs. These challenges are accurately predicted by perception models e.g., Escudero 2009.
+
+NEED TO FINISH THIS SUMMARY AND ALSO FIND ALL OF THESE ARTICLES.
 
 # Topic Summaries
 
