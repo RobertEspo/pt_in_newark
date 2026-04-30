@@ -1,6 +1,6 @@
 ---
 title: "Summaries"
-author: "Robert Esposito"
+author: "Robert Esposito & Kendra Dickinson, Ph.D."
 format: pdf
 ---
 
@@ -16,13 +16,13 @@ Late 19th/early 20th century, big influx to CA, MA, NY, & NJ. Mid-1970s, major i
 
 Early immigrants = high illiteracy, low English.
 
-Azorean Portuguese is stigamized [@middleton1986language].
+Azorean Portuguese is stigmatized [@middleton1986language].
 
-Began arriving to MNeark in large groups in 1920s [@cunha1981portugueses].
+Began arriving to Newark in large groups in 1920s [@cunha1981portugueses].
 
 Bilingual programs (I guess school programs?) & Sunday schools. 15 private Portuguese schools, similar to Hebrew schools.
 
-## @caravalho201014
+## @carvalho2010portuguese
 
 Portuguese immigrants mainly from Azores Islands, mainland Portugual, and Cape Verdean, smaller population from Mozambique and Angola. High concentrations in MA. Over last 20 years, Cape Verdeans & Brazilians account for most PT speakers.
 
@@ -58,13 +58,11 @@ Heritage speakers accurately categorize PT mid vowels, but higher EN dominance p
 
 ## @rothman2014portuguese
 
-No studies examining Cape Verdean Portuguese as a heritage language. (Although, as noted by @caravalho201014, they would be learning Cape Verdean Creole at home).
+No studies examining Cape Verdean Portuguese as a heritage language. (Although, as noted by @carvalho2010portuguese, they would be learning Cape Verdean Creole at home).
 
 PT-PT stops are pronounced as fricatives; BR-PT pronounces as plosives. Would be interesting to see if PT-PT maintains fricatives in Newark given input from BR-PT and English.
 
 For our reference, this chapter also includes presents demographic information (though somewhat outdated, from 2000, 2008, etc.) on Portuguese speakers in the United States, including population size, growth over time, and age distribution. It also details ancestry groups (Portuguese, Brazilian, Cape Verdean) and their regional concentration across U.S. regions and states, along with data on English proficiency as an indicator of bilingualism and language shift. 
-
-
 
 Summary of heritage speakers learning in college, focused on dialectal differences [@silva2010starting].
 
@@ -91,7 +89,94 @@ Summary: For L1 US En, /e ɛ o c/ are hardest to discriminate; /e ~ ɛ, o ~ ɔ, 
 
 NEED TO FINISH THIS SUMMARY AND ALSO FIND ALL OF THESE ARTICLES.
 
+## @albano2021some
+
+Review of laboratory phonology of Portuguese.
+
+Vowel Variability: 
+
+-   /a ɐ/: In EP.Northern EP losing /a ɐ/ distinction in stressed syllables in perception. (From [Wikipedia](https://en.wikipedia.org/wiki/Portuguese_phonology): "In central European Portuguese this contrast occurs in a limited morphological context, namely in verb conjugation between the first person plural present and past perfect indicative forms of verbs such as pensamos ('we think') and pensámos ('we thought'; spelled ⟨pensamos⟩ in Brazil)." I would assume this contrast gets lost pretty quickly in diaspora.
+
+-   Vowel-to-vowel interactions across syllables (metaonymy; vowel harmony). Morphologized influence of a truncated theme vowel on mid stem vowels of the second and third conjugations, as in 'sinto' vs 'sente'.
+
+-   Height harmony in Rio e.g., m[i]nino, f[u]linha.
+
+-   Vowel lowering: higher F1 for [e o] before stressed low-mid vowels.
+
+Stress & Prosodic Grouping:
+
+-   BP stress acoustically predictable from spectrum, not duration nor F0 [@harmath2021detecting]. What cues do heritage PT speakers use for stress? If spectral features are important for stress, we might predict they maintain those vowel distinctions; or, we might predict that they lose the spectral features and pick up different cues for stress (e.g., F0, duration, amplitude).
+
+-   Antepenultimate, penultimate, and final stress are not equally recognizable [@martins1988ouvir]. Penultimate is most frequent and most recognizable; followed by final and antepenultimate. Differs in L1 child acquisition: 5-6 month old EP-learning infants prefer iambic to trochaic stress (opposite of adults), and they pay attention to visual (facial) cues for stress [@cruz2020eyes]. 
+
+-   BP phonological versus morphological word [@camara1992estrutura]. Related to Prosodic Phonology (Nespor & Vogel).
+
+-   Syllable duration and F0 variation as uces for distinguishing prosodic status of prepositional clitic-host sequences from prosodic word sequences in BP [@da2021prosodization]. Phonetic realization of unstressed syllables at prosoidc word boundaries. Duration does not distinguish prosodic word from the clitic prosodization sequences. Does F0 variation signal an intonation associated to clitic-host sequences distinct from prosodic word sequences?
+
+Nasality:
+
+-   Nasal vowels versus nasalized vowels (resulting from coarticulation). Velum opening is gradient, not binary?
+
+Fricative variability:
+
+## @harmath2021detecting
+
+Stress.
+
+## @camara1992estrutura
+
+Book on BP prosody.
+
+## @da2021prosodization
+
+Clitics and prosody. Seems related to @galves2005syntax.
+
+## @martins1988ouvir
+
+Stress perception.
+
+## @cruz2020eyes
+
+L1 acquisition. Eye-tracking. Stress perception.
+
 # Topic Summaries
+
+## Clitics
+
+@galves2005syntax
+
+## Portuguese in Newark
+
+@stephens1989language
+@carvalho2010portuguese
+
+## /R/
+
+### Production
+
+### Perception
+
+## Mid vowels
+
+### Production
+
+### Perception
+
+@osborne2021perception
+
+## Stress
+
+### Production
+
+### Perception
+
+## Stops
+
+@rothman2014portuguese
+
+### Production
+
+### Perception
 
 # Misc.
 
