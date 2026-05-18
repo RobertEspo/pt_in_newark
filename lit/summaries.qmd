@@ -139,6 +139,26 @@ Stress perception.
 
 L1 acquisition. Eye-tracking. Stress perception.
 
+## @rennicke2015rhotics
+
+Rhotics in Minas Gerais, focus on sound change, Exemplar models, and CASP models. Based on the abstract, I'm getting an articulatory phonology vibe, too: talking about the rhotic class family, articulatory timing, a continuum from alveolar trill to uvular trill, making me think of @lindau1980story.
+
+14 participants from Lavras, Minas Gerais (in the south of the state). Semi-structured interviews and sentence completion task.
+
+Sentence completion task took about 5-10 minutes and were heavily controlled for phonological context and lexical frequency. Since it's already lab speech, maybe we should control for lexical frequency by using nonse words? Stimuli in appendix.
+
+## @da2025reading
+
+10 L1 Spanish L2 Portuguese mid vowel production. Completed two production tasks: "card task" and "list task".
+
+Card task (more cognitively demanding): This is a sentence completion task with images e.g., they see a cup of orange juice, they see the incomplete sentence, "Este é um copo de _____ de laranja", and they have to read the whole sentence with the word filled in twice.
+
+List task (less cognitively demanding): sentence completion task e.g., "Digo _____ com cuidado". 
+
+List task showed greater vowel dispersion, indicating that increased cognitive control may lead to hyperarticulation. 
+
+Stimuli are not available, but maybe we can email them?
+
 # Topic Summaries
 
 ## Clitics
@@ -154,11 +174,15 @@ L1 acquisition. Eye-tracking. Stress perception.
 
 ### Production
 
+@rennicke2015rhotics: sentence completion task stimuli in appendix.
+
 ### Perception
 
 ## Mid vowels
 
 ### Production
+
+@da2025reading: sentence completion task and list-reading task. Stimuli are not available, but maybe we can email them?
 
 ### Perception
 
