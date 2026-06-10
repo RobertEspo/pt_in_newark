@@ -8,6 +8,10 @@ format: pdf
 
 Note: If I can't find the article yet, I just put the abstract. 
 
+## @cunha2023attitudes
+
+Dissertation about Heritage Speakers of Brazilian Portuguese in the U.S. Could be a useful reference for sociolinguistic questionnaire development. Also includes picture description task aiming to prompt past tense and general descriptions.
+
 ## @stephens1989language
 
 Portuguese in USA. Arrivals began in 1820s, picked up in 1830s with arrival fo Lusitanian and Azorean. Congregated to New England, specifically MA. 1850s, to California (San Fran).
