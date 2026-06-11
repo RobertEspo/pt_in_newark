@@ -88,5 +88,16 @@ Possible grants:
 	Early researcher (Kendra would have to apply): https://onlinelibrary.wiley.com/page/journal/14679922/homepage/grant_programs.htm
 	Grant SLA: https://docs.google.com/document/d/17vpr9uh4hQsjXDE0S3s2ljjfg-JtnGi5Bz1esKCInz4/edit?tab=t.0
 
+June 11, 2026
+Kendra, Robert
+- rhotic production task
+- story telling task (Robert finds stimuli)
+- BLP (put into qualtrix eventually)
+- sociodemographic survey (Kendra finds information for questions)
+- IRB (Kendra will start)
+- preregistration (Robert will start; Kendra's OSF: https://osf.io/user/8na7v)
 
-	
+Timeline:
+Robert leaves for Middlebury June 26.
+- 1 week for IRB draft, Robert reviews during few days after
+- meet June 25 1pm.
