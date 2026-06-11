@@ -8,6 +8,10 @@ format: pdf
 
 Note: If I can't find the article yet, I just put the abstract. 
 
+## @gubitosi2020portuguese
+
+Overview article about Portuguese in Massachusetts. Does not deal with specific linguistic features, but rather, focuses on demographic and historical descriptions. Of utility for our purposes could be their examination of the role of social networks in attitudes towards Portuguese in MA.
+
 ## @cunha2023attitudes
 
 Dissertation about Heritage Speakers of Brazilian Portuguese in the U.S. Could be a useful reference for sociolinguistic questionnaire development. Also includes picture description task aiming to prompt past tense and general descriptions.
