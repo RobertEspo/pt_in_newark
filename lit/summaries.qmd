@@ -167,6 +167,18 @@ List task showed greater vowel dispersion, indicating that increased cognitive c
 
 Stimuli are not available, but maybe we can email them?
 
+## @leite2005atitudes
+
+Rhotic variation in Portuguese with rhotic identification via Praat methodology.
+
+## @leite2010r
+
+Rhotic variation in Portuguese with rhotic identification via Praat methodology.
+
+## @gregio2012variantes
+
+Acoustic analysis of rhotics in coda position. Includes 14 participants from various regions.
+
 # Topic Summaries
 
 ## Clitics
@@ -182,7 +194,13 @@ Stimuli are not available, but maybe we can email them?
 
 ### Production
 
-@rennicke2015rhotics: sentence completion task stimuli in appendix.
+@rennicke2015rhotics: sentence completion task stimuli in appendix. Acoustic analysis.
+
+@leite2005atitudes: acoustic analysis.
+
+@leite2010r: acoustic analysis.
+
+@gregio2012variantes: acoustic analysis of rhotics in coda position. 
 
 ### Perception
 
