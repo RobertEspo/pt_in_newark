@@ -1,4 +1,2 @@
-Right now, I am naming files like this:
-	TASK-TYPE_TARGET-SEGMENT
-
-'sentence-completion_rhotic' comes from rennicke2015rhotics.
+sentence_completion_task > sentence-completion_rhotic comes from rennicke2015rhotics.
+story_telling_task > Caperucita Roja.ppt comes from https://aclanthology.org/2022.lrec-1.590/. Shared by Irati Hurtado. Permission to use for study and share on public repo here: story_telling_task > BILinMID corpus stimuli question.eml.
