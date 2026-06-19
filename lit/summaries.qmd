@@ -12,6 +12,34 @@ Note: If I can't find the article yet, I just put the abstract.
 
 Overview article about Portuguese in Massachusetts. Does not deal with specific linguistic features, but rather, focuses on demographic and historical descriptions. Of utility for our purposes could be their examination of the role of social networks in attitudes towards Portuguese in MA.
 
+Details that they have that we can include:
+
+- census data and maps
+- description of Portuguese-language establishments (e.g., churches, restaurants), newspapers, radio stations, TV stations, news stations, Instagram news outlets
+- quotes about Portuguese from public school websites
+- information about Portuguese classes in public schools
+
+Language attitudes related to language maintenance, but interviews establish clearer connection than questionnaires [@cherciov2013investigating].
+
+Social networks analyzed in three dimensions:
+
+- relational characteristics
+  - nature of the relationship (family, friend, colleague)
+  - intensity of interactions (always, frequent, seldom)
+  - divided into "primary" and "non-primary"
+- structural properties
+  - size of network
+  - size of "primary" and "non-primary" networks
+- location in space and time
+  - relatives abroad
+  - trips abroad
+
+Gendered nature of language transmission. Bilingual responsabilities falls on mother typically. This study found that fathers are also important for language positivity.
+
+## @milroy2013social
+
+Social networks.
+
 ## @cunha2023attitudes
 
 Dissertation about Heritage Speakers of Brazilian Portuguese in the U.S. Could be a useful reference for sociolinguistic questionnaire development. Also includes picture description task aiming to prompt past tense and general descriptions.
@@ -227,6 +255,14 @@ Acoustic analysis of rhotics in coda position. Includes 14 participants from var
 ### Production
 
 ### Perception
+
+## Social Networks
+
+@gubitosi2020portuguese
+
+@milroy2013social
+
+Milroy is a major author for Social Network Theory.
 
 # Misc.
 
