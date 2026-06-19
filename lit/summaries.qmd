@@ -8,6 +8,17 @@ format: pdf
 
 Note: If I can't find the article yet, I just put the abstract. 
 
+## @barnard2025listening
+Barnard et al. examine whether listeners expend different amounts of cognitive effort when processing familiar and less-familiar L1 accents, as well as L2-accented speech, using pupillometry. For our purposes, their questionnaire is useful because it measures accent exposure across specific domains—social life, work/student life, and media—using a 7-point frequency scale from “almost never” to “daily,” allowing researchers to compare exposure to different accents or dialects in a systematic way.
+
+
+## @hoffman2010ethnolects
+Hoffman and Walker examine how ethnic orientation shapes linguistic variation in Toronto English, focusing on Italian and Chinese communities and arguing that ethnicity should be measured through both external social categories and speakers’ own self-identifications.For our purposes, the most useful takeaway is their *Ethnic Orientation questionnaire*, which measures ethnic identification, language use/choice, cultural heritage, family and partner practices, attitudes, and discrimination, and could serve as a reference point for developing a dialect-contact/identity questionnaire.
+
+## @oushiro2020contrasting
+The paper examines how age of arrival and length of residence affect dialect acquisition among forty Brazilian Portuguese speakers from Alagoas and Paraíba who migrated to the Campinas region of São Paulo. Oushiro analyzes two phonetic variables, coda /r/ and /t, d/ before [i], and two morphosyntactic variables, sentential negation and nominal agreement, comparing migrants’ speech with nonmigrant Northeasterners and native Paulistas. The results show that migrants generally adopt some Paulista or urban variants, but the predictors vary by linguistic feature: age of arrival is a stronger predictor than length of residence for phonetic accommodation, while length of residence only significantly predicts coda /r/, likely because of that variable’s salience. Self-reported identification with the home state or São Paulo also patterns phonetic and morphonsyntactic variables differently, and whether the variable indexes North-South or rural-urban distinctions. 
+
+
 ## @gubitosi2020portuguese
 
 Overview article about Portuguese in Massachusetts. Does not deal with specific linguistic features, but rather, focuses on demographic and historical descriptions. Of utility for our purposes could be their examination of the role of social networks in attitudes towards Portuguese in MA.
