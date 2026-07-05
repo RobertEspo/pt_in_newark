@@ -1,3 +1,6 @@
+SENTENCE COMPLETION TASK
+Every time you render the .qmd file, the slides are randomized.
+
 update image:
 garrafa (wrong cup)
 o mar é vasto (current image focuses on horizon)

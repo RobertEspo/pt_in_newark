@@ -1,0 +1,35 @@
+---
+format: rutgers-revealjs
+engine: knitr
+execute: 
+  out.width: "100%"
+  fig.asp: 0.5625
+  dpi: 300
+---
+
+```{r}
+library(here)
+library(tidyverse)
+library(glue)
+
+```
+
+```{r, results='asis'}
+imgs <- list.files(
+  "../images",
+  pattern = "\\.jpe?g$",
+  full.names = FALSE
+)
+
+imgs <- sort(imgs)
+
+for (img in imgs) {
+
+  cat("#\n\n")
+
+  cat(sprintf(
+    "![](../images/%s)\n\n",
+    img
+  ))
+}
+```
