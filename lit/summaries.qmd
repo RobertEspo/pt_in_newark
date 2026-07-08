@@ -275,6 +275,13 @@ Acoustic analysis of rhotics in coda position. Includes 14 participants from var
 
 Milroy is a major author for Social Network Theory.
 
+# LexTALE used for heritage speakers
+
+@flores2022no
+@lozano2025beyond
+@alves2025exploring
+@zhou2022lextpt
+
 # Misc.
 
 Fernanda A. Ferreira has a lot of research on heritage speakers in college classes.
