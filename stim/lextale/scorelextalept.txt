@@ -1,0 +1,1 @@
+score = Nyes to words - 2 x Nyes to nonwords
