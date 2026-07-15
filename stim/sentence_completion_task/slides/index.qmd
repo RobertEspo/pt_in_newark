@@ -8,6 +8,15 @@ execute:
 ---
 
 ```{r}
+### WARNING ###
+# When you render this file, a .csv file with the randomized trial order
+# will be generated in data/raw/audio/sentence_completion_task/trials.
+# The name will be generated based on what's already in the folder
+# (e.g., 000, 001, 002 ...)
+# The names must match the participant number.
+# If this file is rendered by accident, please delete the resulting
+# csv file in the indicated folder.
+
 library(here)
 library(tidyverse)
 library(glue)
