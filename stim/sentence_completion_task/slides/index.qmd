@@ -1,5 +1,4 @@
 ---
-shuffle: TRUE
 format: rutgers-revealjs
 engine: knitr
 execute: 
@@ -13,6 +12,7 @@ library(here)
 library(tidyverse)
 library(glue)
 
+# load stimuli
 stim <- read_csv(here("stim","sentence_completion_task","sentence-completion_rhotic.csv")) %>%
   mutate(
     stimulus = str_replace(
@@ -21,18 +21,45 @@ stim <- read_csv(here("stim","sentence_completion_task","sentence-completion_rho
       str_dup("_", str_length(lexical_item))
     )
   )
+
+# randomize stimuli
+stim_randomized <- stim[sample(nrow(stim)),] %>%
+  mutate(
+  trial = row_number()
+    )
 ```
 
 ```{r, results='asis'}
-for (i in seq_len(nrow(stim))) {
+# generate slides
+for (i in seq_len(nrow(stim_randomized))) {
 
   cat("#\n\n")
 
   cat(sprintf(
     "![](../images/%s.avif){width=50%%}\n\n",
-    stim$sentence_code[i]
+    stim_randomized$sentence_code[i]
   ))
 
-  cat(stim$stimulus[i], "\n\n")
+  cat(stim_randomized$stimulus[i], "\n\n")
 }
+```
+
+```{r}
+# output randomized trials as csv
+dat_dir <- here("data","pilot_raw","audio","sentence_completion_task","trials")
+
+existing_files <- list.files(path = dat_dir, pattern = "^[0-9]+")
+
+existing_numbers <- as.numeric(gsub("^([0-9]+).*", "\\1", existing_files))
+
+next_number <- if (length(existing_numbers) == 0) 1 else max(existing_numbers) + 1
+
+formatted_number <- sprintf("%03d", next_number)
+
+new_filename <- paste0(formatted_number, ".csv")
+
+new_file_path <- here("data","pilot_raw","audio","sentence_completion_task","trials",new_filename)
+
+write_csv(stim_randomized, new_file_path)
+
 ```
