@@ -11,7 +11,6 @@ Note: If I can't find the article yet, I just put the abstract.
 ## @barnard2025listening
 Barnard et al. examine whether listeners expend different amounts of cognitive effort when processing familiar and less-familiar L1 accents, as well as L2-accented speech, using pupillometry. For our purposes, their questionnaire is useful because it measures accent exposure across specific domains—social life, work/student life, and media—using a 7-point frequency scale from “almost never” to “daily,” allowing researchers to compare exposure to different accents or dialects in a systematic way.
 
-
 ## @hoffman2010ethnolects
 Hoffman and Walker examine how ethnic orientation shapes linguistic variation in Toronto English, focusing on Italian and Chinese communities and arguing that ethnicity should be measured through both external social categories and speakers’ own self-identifications.For our purposes, the most useful takeaway is their *Ethnic Orientation questionnaire*, which measures ethnic identification, language use/choice, cultural heritage, family and partner practices, attitudes, and discrimination, and could serve as a reference point for developing a dialect-contact/identity questionnaire.
 
@@ -285,3 +284,29 @@ Milroy is a major author for Social Network Theory.
 # Misc.
 
 Fernanda A. Ferreira has a lot of research on heritage speakers in college classes.
+
+# Coding Rhotics
+
+This section highlights various methodologies on coding rhotics from production data. The end of this section will include a proposal on how to code rhotics for the present study.
+
+## Impressionistic methodologies
+
+This section is included to highlight the need for acoustics-based studies.
+
+## Acoustic-based methodologies
+
+### @rennicke2015rhotics
+
+sentence completion task stimuli in appendix. Acoustic analysis.
+
+### @leite2005atitudes
+
+acoustic analysis.
+
+### @leite2010r
+
+acoustic analysis.
+
+### @gregio2012variantes
+
+acoustic analysis of rhotics in coda position. 
