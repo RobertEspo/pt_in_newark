@@ -34,7 +34,7 @@ rename_wavs <- function(participant_code) {
       
       to <- file.path(
         audio_dir,
-        paste0(.y, ".wav")
+        paste0(participant_code, "-", .y, ".wav")
       )
       
       if (file.exists(from)) {
@@ -49,3 +49,4 @@ rename_wavs <- function(participant_code) {
 # Run function here with participant's code
 # e.g., rename_wavs(001) or rename_wavs(020)
 
+rename_wavs()
