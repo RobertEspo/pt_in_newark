@@ -1,0 +1,58 @@
+sentence_code,target_segment,lexical_item,phonological_context,stress,aspa_frequency,port_sentence,eng_translation,observation,stimulus,trial
+42,word-final coda: monosyllabic verb,ir,Vc##,1,38938,Estou perdido. Não sei para onde eu devo ir.,I'm lost. I don't know where to go.,NA,Estou perdido. Não sei para onde eu devo __.,1
+01,strong r,rádio,#RV,1,20020,Eu ouço rádio para saber as últimas notícias.,I listen to the radio to hear the latest news.,NA,Eu ouço _____ para saber as últimas notícias.,2
+13,word-medial coda,barco,Vc$,1,6195,Um passeio de barco é uma boa forma de relaxar.,A boat trip is a good way to relax.,NA,Um passeio de _____ é uma boa forma de relaxar.,3
+51,word-final coda: two-syllable verb,sair,Vc##,1,30091,Estou perdido no labirinto e não consigo sair.,I'm lost in the labyrinth and can't find my way out.,NA,Estou perdido no labirinto e não consigo ____.,4
+22,word-final coda: polysyllabic noun,mulher,Vc#V,1,70112,A mulher é mais alta que o homem.,The woman is taller than the man.,"Stressed -ar, -ir, -ur nouns not present in the ASPA corpus or semantically unsuitable for sentence completion task",A ______ é mais alta que o homem.,5
+46,word-final coda: two-syllable verb,fazer,Vc#C,1,165380,A Luísa quer fazer cócegas nos pés do Pedro.,Luísa wants to tickle Pedro's feet.,NA,A Luísa quer _____ cócegas nos pés do Pedro.,6
+56,misc,besouro,VrV or VRV,0,208,O besouro é um inseto que tem uma casca dura.,The beetle is an insect that has a hard shell.,NA,O _______ é um inseto que tem uma casca dura.,7
+53,misc,qualquer,Vc#V,1,87041,A Maria pode comprar o carro que quiser. Ela pode comprar qualquer um.,Maria can buy any car she wants. She can buy any car.,NA,A Maria pode comprar o carro que quiser. Ela pode comprar ________ um.,8
+32,word-final code: melhor and maior,maior,Vc#C,1,175984,O elefante é maior que o rato.,The elephant is bigger than the mouse.,NA,O elefante é _____ que o rato.,9
+35,word-final coda: monosyllabic verb,dar,Vc#V,1,69635,Eu vou dar um presente para minha amiga.,I'm going to give my friend a present.,NA,Eu vou ___ um presente para minha amiga.,10
+10,weak r,trabalho,#CrV,0,129023,A criatividade é uma vantagem do trabalho em equipe.,Creativity is an advantage of team work.,NA,A criatividade é uma vantagem do ________ em equipe.,11
+34,word-final coda: monosyllabic verb,dar,Vc#C,1,69635,Não vai dar tempo de eu chegar na hora.,There is not enough time for me to get there on time.,NA,Não vai ___ tempo de eu chegar na hora.,12
+15,word-final coda: monosyllabic noun,mar,Vc#C,1,21625,Para um navegador inexperiente o mar pode ser perigoso.,"For an inexperienced sailor, the sea can be dangerous.","Monosyllabic nouns ending in -er, -ir, -ur not present in the ASPA corpus or semantically unsuitable for sentence completion task",Para um navegador inexperiente o ___ pode ser perigoso.,13
+45,word-final coda: two-syllable verb,falar,Vc##,1,39119,Estou com dor de garganta e não consigo falar.,I have a sore throat and I can't speak.,NA,Estou com dor de garganta e não consigo _____.,14
+48,word-final coda: two-syllable verb,fazer,Vc##,1,165380,Tenho que encontrar uma solução. Não sei o que devo fazer.,I have to find a solution. I don't know what I should do.,NA,Tenho que encontrar uma solução. Não sei o que devo _____.,15
+54,misc,por,Vc#C,1,1273087,Não posso sair de casa por causa da gripe.,I can't leave the house because of the flu.,NA,Não posso sair de casa ___ causa da gripe.,16
+43,word-final coda: two-syllable verb,falar,Vc#C,1,39119,Na biblioteca é preciso falar baixo.,In the library you need to talk quietly.,NA,Na biblioteca é preciso _____ baixo.,17
+38,word-final coda: monosyllabic verb,ser,Vc#V,1,514408,Eu quero ser um bom amigo para você.,I want to be a good friend to you.,NA,Eu quero ___ um bom amigo para você.,18
+24,word-final coda: polysyllabic noun,computador,Vc#C,1,20532,"O computador tem um monitor, um teclado e um mouse.","The computer has a screen, a keyboard and a mouse.",NA,"O __________ tem um monitor, um teclado e um mouse.",19
+25,word-final coda: polysyllabic noun,computador,Vc#V,1,20532,Escrever no computador é mais fácil que à mão.,Writing on the computer is easier than by hand.,NA,Escrever no __________ é mais fácil que à mão.,20
+21,word-final coda: polysyllabic noun,mulher,Vc#C,1,70112,"O homem tem cabelo castanho, e a mulher tem cabelo louro.","The man has brown hair, and the woman has blonde hair.","Stressed -ar, -ir, -ur nouns not present in the ASPA corpus or semantically unsuitable for sentence completion task","O homem tem cabelo castanho, e a ______ tem cabelo louro.",21
+18,word-final coda: monosyllabic noun,dor,Vc#C,1,10131,Estou com dor de cabeça.,I have a headache.,NA,Estou com ___ de cabeça.,22
+11,word-medial coda,carta,Vc$,1,23774,Eu coloco a carta no envelope.,I put the letter in the envelope.,NA,Eu coloco a _____ no envelope.,23
+36,word-final coda: monosyllabic verb,dar,Vc##,1,69635,Preciso consertar meu carro mas hoje já não vai dar.,I need to fix my car but today it's not possible anymore.,NA,Preciso consertar meu carro mas hoje já não vai ___.,24
+06,weak r,barata,VrV,1,3885,Tem uma barata no chão.,There is a cockroach on the floor.,NA,Tem uma ______ no chão.,25
+17,word-final coda: monosyllabic noun,mar,Vc##,1,21625,A tartaruga é um animal que vive no mar.,The turtle is an animal that lives in the sea.,"Monosyllabic nouns ending in -er, -ir, -ur not present in the ASPA corpus or semantically unsuitable for sentence completion task",A tartaruga é um animal que vive no ___.,26
+04,strong r,barra,VRV,0,10713,Eu quero comer uma barra de chocolate.,I want to eat a chocolate bar.,NA,Eu quero comer uma _____ de chocolate.,27
+19,word-final coda: monosyllabic noun,dor,Vc#V,1,10131,Sinto uma dor insuportável nas costas.,I feel unbearable pain in my back.,NA,Sinto uma ___ insuportável nas costas.,28
+57,misc,guelras,VrV or VRV,0,24,Com as guelras os peixes respiram.,"With gills, fish breathe.",NA,Com as _______ os peixes respiram.,29
+08,weak r,caro,VrV,0,9266,O carro é mais caro que a bicicleta.,The car is more expensive than the bicycle.,Minimal pair with carro,O carro é mais ____ que a bicicleta.,30
+49,word-final coda: two-syllable verb,sair,Vc#C,1,30091,Não posso sair de casa porque estou de castigo.,I can't leave the house because I'm grounded.,NA,Não posso ____ de casa porque estou de castigo.,31
+41,word-final coda: monosyllabic verb,ir,Vc#V,1,38938,Eu preciso ir ao supermercado.,I need to go to the supermarket.,NA,Eu preciso __ ao supermercado.,32
+50,word-final coda: two-syllable verb,sair,Vc#V,1,30091,A Maria quer sair à noite com suas amigas.,Maria wants to go out at night with her friends.,NA,A Maria quer ____ à noite com suas amigas.,33
+44,word-final coda: two-syllable verb,falar,Vc#V,1,39119,É bom saber falar uma língua estrangeira.,It's good to know a foreign language.,NA,É bom saber _____ uma língua estrangeira.,34
+29,word-final coda: polysyllabic noun,açúcar,Vc##,0,9801,O café pode ser consumido com leite e açúcar.,Coffee can be consumed with milk and sugar.,NA,O café pode ser consumido com leite e ______.,35
+39,word-final coda: monosyllabic verb,ser,Vc##,1,514408,Estou ansioso para saber minha nota. Não sei qual vai ser.,I'm eager to know my grade. I don't know what it will be.,NA,Estou ansioso para saber minha nota. Não sei qual vai ___.,36
+05,strong r,carro,VRV,0,62766,O carro é vermelho.,The car is red.,Minimal pair with caro.,O _____ é vermelho.,37
+23,word-final coda: polysyllabic noun,mulher,Vc##,1,70112,O homem é mais alto que a mulher.,The man is taller than the woman.,"Stressed -ar, -ir, -ur nouns not present in the ASPA corpus or semantically unsuitable for sentence completion task",O homem é mais alto que a ______.,38
+47,word-final coda: two-syllable verb,fazer,Vc#V,1,165380,Amanhã a Luísa vai fazer oito anos.,Tomorrow Luísa will be eight years old.,NA,Amanhã a Luísa vai _____ oito anos.,39
+27,word-final coda: polysyllabic noun,açúcar,Vc#C,0,9801,O açúcar pode ser substituído por adoçante.,Sugar can be replaced with sweetener.,NA,O ______ pode ser substituído por adoçante.,40
+28,word-final coda: polysyllabic noun,açúcar,Vc#V,0,9801,O açúcar é doce.,Sugar is sweet.,NA,O ______ é doce.,41
+07,weak r,cara,VrV,0,22483,Eu jogo a moeda para sair cara ou coroa.,I throw the coin to get heads or tails.,NA,Eu jogo a moeda para sair ____ ou coroa.,42
+30,word-final code: melhor and maior,melhor,Vc#C,1,119542,Gostei muito do filme. A melhor parte foi a perseguição.,I liked the movie a lot. The best part was the chase.,NA,Gostei muito do filme. A ______ parte foi a perseguição.,43
+40,word-final coda: monosyllabic verb,ir,Vc#C,1,38938,Quero ir para a praia.,I want to go to the beach.,NA,Quero __ para a praia.,44
+31,word-final code: melhor and maior,melhor,Vc#V,1,119542,O Pedro é meu melhor amigo.,Pedro is my best friend.,NA,O Pedro é meu ______ amigo.,45
+12,word-medial coda,cartão,Vc$,0,15274,Para pagar com cartão é preciso saber a senha.,In order to pay by card it is necessary to know the PIN number.,NA,Para pagar com ______ é preciso saber a senha.,46
+33,word-final code: melhor and maior,maior,Vc#V,1,175984,A baleia-azul é o maior animal do mundo.,The blue whale is the biggest animal in the world.,NA,A baleia-azul é o _____ animal do mundo.,47
+16,word-final coda: monosyllabic noun,mar,Vc#V,1,21625,O mar é vasto e azul.,The sea is vast and blue.,"Monosyllabic nouns ending in -er, -ir, -ur not present in the ASPA corpus or semantically unsuitable for sentence completion task",O ___ é vasto e azul.,48
+37,word-final coda: monosyllabic verb,ser,Vc#C,1,514408,Eu quero ser professor quando crescer.,I want to be a teacher when I grow up.,NA,Eu quero ___ professor quando crescer.,49
+02,strong r,rainha,#RV,0,9207,A rainha é a mulher do rei.,The queen is the king’s wife.,NA,A ______ é a mulher do rei.,50
+09,weak r,tráfico,#CrV,1,12754,O tráfico de drogas é um problema nas fronteiras.,Drug trafficking is a problem at borders.,NA,O _______ de drogas é um problema nas fronteiras.,51
+26,word-final coda: polysyllabic noun,computador,Vc##,1,20532,Três pessoas estão usando o computador.,Three people are using the computer.,NA,Três pessoas estão usando o __________.,52
+52,misc,qualquer,Vc#C,1,87041,O João ama a Maria. Ele faria qualquer coisa por ela.,João loves Maria. He would do anything for her.,NA,O João ama a Maria. Ele faria ________ coisa por ela.,53
+55,misc,por,Vc#V,1,1273087,O João quase morreu. A vida dele estava por um fio.,João almost died. His life was hanging by a thread.,NA,O João quase morreu. A vida dele estava ___ um fio.,54
+20,word-final coda: monosyllabic noun,dor,Vc##,1,10131,Uma má postura pode causar dor.,A bad posture can cause pain.,NA,Uma má postura pode causar ___.,55
+14,word-medial coda,arquitetura,Vc$,0,8665,A arquitetura é a arte de projetar construções.,Architecture is the art of designing buildings.,NA,A ___________ é a arte de projetar construções.,56
+03,strong r,garrafa,VRV,1,8276,A garrafa de cerveja está cheia.,The beer bottle is full.,NA,A _______ de cerveja está cheia.,57
