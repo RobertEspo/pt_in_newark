@@ -373,7 +373,11 @@ What was used in this study:
 
 ### @leite2005atitudes
 
-acoustic analysis.
+Study focuses on students' language attitudes towards their native variety, focusing on retroflex /r/ in coda position. Native to São José do Rio Preto, São Paulo. Sociolinguistic interviews.
+
+Criteria for acoustic analysis based on "A Course in Phonetics" by Ladefoged (1975), "Rhotics" by Ladefoged & Maddieson (1996), and Lindau's Phonetic Differences in Nigerian Languages (1980) and The story of /r/ (1980).
+
+- retroflex approximant = lowering of F3 approaching F2
 
 ### @leite2010r
 
