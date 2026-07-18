@@ -291,13 +291,64 @@ This section highlights various methodologies on coding rhotics from production 
 
 ## Impressionistic methodologies
 
-This section is included to highlight the need for acoustics-based studies.
+This section is included to highlight the need for acoustics-based studies. 
 
 ## Acoustic-based methodologies
 
 ### @rennicke2015rhotics
 
-sentence completion task stimuli in appendix. Acoustic analysis.
+"Impressionistic, auditory analysis is insufficient for the analysis of reduction phenomena: sequences can sound intelligible and normal even if several segments cannot be identified in the spectrogram image (Warner 2012, p. 622)."
+
+- Trill
+  - succession of light vertical bars (corresponding to closure phases) and darker vertical bars (corresponding to the open or vocalic phases).
+  - uvular trills tend to have much higher F3 than alveolar trills
+  - uvular trills may be slightly longer than alveolar trills
+  
+- Taps and flaps
+  - one closure, appearing as a light vertical bar
+  - tap: tongue tip moved directly towards alveolar ridge
+  - flap: tangential strike of tongue tip so that it touches alveolar ridge in passing
+  - approximant tap: formant structure is regular and continuous, but at lower amplitude compared to vowels
+
+- Fricatives
+  - alveolar, uvular/velar, or glottal
+  - random energy distributed over wide range of frequencies; frequencies depend on exact place of articulation
+  - acoustic phonetics cannot distinguish uvular vs velar articulations
+    - "velar pinch": narrowing of distance between F2 and F3 in adjacent vowels is characteristic of velar consonants (Ladefoged & Johnson 2011, p. 199).
+  - glottal fricative does not have the "velar pinch"
+  
+- Approximants
+  - vowel-like formant structure
+  - less intensity than vowels
+  - formant trajectories can be used to estimate tongue configuration: alveolar, uvular, retroflex, or bunched
+  - lowering of F3; high F3 indicates alveolar/uvular constriction
+  - typically, "erre retroflexo"/"erre caipira" is referred to as a retroflex, but we don't yet have empirical evidence for this (which would come in the form of articulatory methodologies like palatography, ultrasound imaging, etc.), so "rhotic approximant" is the preferred term
+  - retroflex approximant: lowered F3 close to F2; compared to palatal approximants, retroflex approximants have an F3 that is on average slightly lower
+  - alveolar approximant: raised F3 closer to F4
+  - palatal approximant [j]: rising F2 and F3
+  - F3 also depends on preceeding vowel for males: front vowel -> above 2000Hz; back vowels -> below 2000Hz.
+
+- Vocalic variants
+  - r-coloured/schwar or neutral schwa-like vowel in syllable coda
+  - rhotic vowels: mid-central; F2 and F3 are "conflated"; rhoticity perceived during entire duration of vowel, or only at the end.
+  
+- Non-rhotic vocalic variants
+  - Vowel-Rhotic rhyme can be cued by schwa
+
+- Tap-like articulation
+  - either complete closure phase that shows up in the spectrogram as a light vertical line or a clear release burst.
+  - if complete closure is present, can be voiced [ɾ] or voiceless [ɾ̥], determined by presence/absence of voicing bar.
+  - if  formants are present, labeled as approximant tap [ɾ̞].
+
+- Fricatives
+  - voiced [ɦ] or unvoiced [h] based on presence/absence of voicing bar
+  - [χ ʁ] used to represent velar/uvular fricative because spectrogram not suitable for determining precise articulatory location
+  - friction noise in "upper end" of spectrogram can be voiced [ɹ̝] or unvoiced [ɹ̝̥]. Weakened variants of apical full-closure rhotics.
+  
+- Approximants and other vowel-like segments
+  
+
+### @blecua2001vibrantes
 
 ### @leite2005atitudes
 
@@ -310,3 +361,23 @@ acoustic analysis.
 ### @gregio2012variantes
 
 acoustic analysis of rhotics in coda position. 
+
+### @ferraz2005caracteristicas
+
+## Proposal for coding rhotics
+
+Acoustic values will be extracted from all segments at 10% intervals.
+
+Quantitative measures to be extracted:
+  - Formants 1 through 5
+  - Duration of segment
+  
+  
+  - Possible measures of phonetic voicing (from @kiss2013measuring)
+    - Pulse-based measurements: "Voice Report", based on glottal pulses. Pitch should be set to around 250 Hz to remove "phantom" pulses. This isn't a great method because it's entirely dependent on how much of the sound file is displayed in Praat.
+    - Harmonicity (harmonics-to-noise ratio, HNR): can only be used reliably for fricative voicing and other sounds that contain turbulence.
+    - Center of gravity (Cog) or spectral mean/centroid: average of frequencies over entire frequency domain weighted by the amplitude. Can be used for place of articulation identification. Can also be used for manner of articulation identification.
+    - Duration: voice lengthening etc.
+    - Intensity: must be normalized for the recording level and the volume of speech.
+    - Zero-crossing rate (ZCR): number of times in a given time interval that the amplitude of the speech signals pass through a value of 0 divided by the number of frames. High values for voiceless fricatives, low values for voiced.
+    - Low frequency spectral features: According to Jansen, the fundamental frequency f₀ and first formant F1 of a vowel following a voiceless stop and fricative start somewhat higher than the F0 and F1 of a vowel following a voiced stop and fricative. 
