@@ -299,6 +299,8 @@ This section is included to highlight the need for acoustics-based studies.
 
 "Impressionistic, auditory analysis is insufficient for the analysis of reduction phenomena: sequences can sound intelligible and normal even if several segments cannot be identified in the spectrogram image (Warner 2012, p. 622)."
 
+Summary of other literature:
+
 - Trill
   - succession of light vertical bars (corresponding to closure phases) and darker vertical bars (corresponding to the open or vocalic phases).
   - uvular trills tend to have much higher F3 than alveolar trills
@@ -334,6 +336,8 @@ This section is included to highlight the need for acoustics-based studies.
   
 - Non-rhotic vocalic variants
   - Vowel-Rhotic rhyme can be cued by schwa
+  
+What was used in this study:
 
 - Tap-like articulation
   - either complete closure phase that shows up in the spectrogram as a light vertical line or a clear release burst.
@@ -346,9 +350,26 @@ This section is included to highlight the need for acoustics-based studies.
   - friction noise in "upper end" of spectrogram can be voiced [ɹ̝] or unvoiced [ɹ̝̥]. Weakened variants of apical full-closure rhotics.
   
 - Approximants and other vowel-like segments
+  - rising F3 = alveolar [ɹ]
+  - rising F2, falling F3 = retroflex/bunched [ɻ]
+  - rising F2, rising F3 = palatal approximant [j]
+  - if F3 was low and perceptual rhoticity was present during (almost) entire duration of syllable nuclear/coda (or when there was no coda) = r-coloured schwa [ɚ]
   
+- Aspirated approximants
+  - same as above, except with fricative release (e.g., aspiration), represented by superscript h e.g., jʰ
+
+- Deletion
+  - no formant changes indicating the presence of a segment other than the vowel in syllable nucleus
+  
+- Other variants
+  - alveolar trill (voiced or voiceless). At least two closure phases (although the alveolar trill can occur with just one closure phase...)
+  - lateral approximant [l]
+  - voiced labial-velar approximant [w]
+  - postalveolar fricatives, voiced and unvoiced
 
 ### @blecua2001vibrantes
+
+
 
 ### @leite2005atitudes
 
