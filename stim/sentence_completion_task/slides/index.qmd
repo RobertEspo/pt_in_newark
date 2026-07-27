@@ -10,12 +10,10 @@ execute:
 ```{r}
 ### WARNING ###
 # When you render this file, a .csv file with the randomized trial order
-# will be generated in data/raw/audio/sentence_completion_task/trials.
+# will be generated in data/tidy/audio/sentence_completion_task/trials folder.
 # The name will be generated based on what's already in the folder
 # (e.g., 000, 001, 002 ...)
-# The names must match the participant number.
-# If this file is rendered by accident, please delete the resulting
-# csv file in the indicated folder.
+# The name matches the participant's ID.
 
 library(here)
 library(tidyverse)
@@ -57,18 +55,25 @@ for (i in seq_len(nrow(stim_randomized))) {
 # output randomized trials as csv
 dat_dir <- here("data","pilot_tidy","audio","sentence_completion_task","trials")
 
+# list existing files in dir
 existing_files <- list.files(path = dat_dir, pattern = "^[0-9]+")
 
+# get ID numbers
 existing_numbers <- as.numeric(gsub("^([0-9]+).*", "\\1", existing_files))
 
+# assign current presentation following number
 next_number <- if (length(existing_numbers) == 0) 1 else max(existing_numbers) + 1
 
+# format number correctly
 formatted_number <- sprintf("%03d", next_number)
 
+# name new file
 new_filename <- paste0(formatted_number, ".csv")
 
+# get new file path
 new_file_path <- here("data","pilot_tidy","audio","sentence_completion_task","trials",new_filename)
 
+# write file
 write_csv(stim_randomized, new_file_path)
 
 ```

@@ -1,10 +1,15 @@
+# Rename audio files for sentence completion task -----------------------------
+# Authors: Robert Esposito & Kendra Dickinson
+#
+# Description:
 # This script is used to rename the audio files for the sentence completion
 # task. Originally, the audio files are named after the trial number.
 # This script renames the audio files to be named after the sentence code.
+# -----------------------------------------------------------------------------
 
 source(here::here("scripts","r","00_libs.R"))
 
-# Load this function
+# Load following function & then run the function below
 
 rename_wavs <- function(participant_code) {
   
