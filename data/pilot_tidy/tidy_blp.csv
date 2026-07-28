@@ -1,0 +1,130 @@
+participant_id,duration,date,question_code,participant_response,question,block,language,points
+001,983,7/14/2026 10:42,start_learning_1,8,Com que idade começou a aprender as seguintes línguas? - inglês,language_history,english,12
+001,983,7/14/2026 10:42,start_learning_2,0,Com que idade começou a aprender as seguintes línguas? - português,language_history,portuguese,20
+001,983,7/14/2026 10:42,feel_comfortable_1,20,Com que idade começou a sentir-se confortável utilizando as seguintes línguas - inglês,language_history,english,20
+001,983,7/14/2026 10:42,feel_comfortable_2,0,Com que idade começou a sentir-se confortável utilizando as seguintes línguas - português,language_history,portuguese,0
+001,983,7/14/2026 10:42,classes_1,4,"Quantos anos de aulas (gramática, história, matemática, etc.) teve nas seguintes línguas (escola primária até à universidad? - inglês",language_history,english,4
+001,983,7/14/2026 10:42,classes_2,20,"Quantos anos de aulas (gramática, história, matemática, etc.) teve nas seguintes línguas (escola primária até à universidad? - português",language_history,portuguese,20
+001,983,7/14/2026 10:42,lusofono_country_1,20,Qunatos anos passou num país/região onde as seguintes línguas são faladas? - inglês,language_history,english,20
+001,983,7/14/2026 10:42,lusofono_country_2,20,Qunatos anos passou num país/região onde as seguintes línguas são faladas? - português,language_history,portuguese,20
+001,983,7/14/2026 10:42,family_1...27,0,Quantos anos passou no seio de uma família onde as seguintes línguas são faladas? - inglês,language_history,english,0
+001,983,7/14/2026 10:42,family_2...28,20,Quantos anos passou no seio de uma família onde as seguintes línguas são faladas? - português,language_history,portuguese,20
+001,983,7/14/2026 10:42,work_1,5,Quantos anos passou num ambiente de trabalho em que as seguintes línguas são faladas? - inglês,language_history,english,5
+001,983,7/14/2026 10:42,work_2,20,Quantos anos passou num ambiente de trabalho em que as seguintes línguas são faladas? - português,language_history,portuguese,20
+001,983,7/14/2026 10:42,friends_1,20,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - inglês",language_use,english,20
+001,983,7/14/2026 10:42,friends_2,70,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - português",language_use,portuguese,70
+001,983,7/14/2026 10:42,friends_3,10,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - outras línguas",language_use,other,10
+001,983,7/14/2026 10:42,family_1...34,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - inglês",language_use,english,0
+001,983,7/14/2026 10:42,family_2...35,100,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - português",language_use,portuguese,100
+001,983,7/14/2026 10:42,family_3,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - outras línguas",language_use,other,0
+001,983,7/14/2026 10:42,work_school_1,50,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - inglês",language_use,english,50
+001,983,7/14/2026 10:42,work_school_2,50,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - português",language_use,portuguese,50
+001,983,7/14/2026 10:42,work_school_3,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - outras línguas",language_use,other,0
+001,983,7/14/2026 10:42,talk_self_1,70,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - inglês",language_use,english,70
+001,983,7/14/2026 10:42,talk_self_2,30,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - português",language_use,portuguese,30
+001,983,7/14/2026 10:42,talk_self_3,0,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - outras línguas",language_use,other,0
+001,983,7/14/2026 10:42,count_1,10,"Quando conta, com que frequência conta nas seguintes línguas? - inglês",language_use,english,10
+001,983,7/14/2026 10:42,count_2,90,"Quando conta, com que frequência conta nas seguintes línguas? - português",language_use,portuguese,90
+001,983,7/14/2026 10:42,count_3,0,"Quando conta, com que frequência conta nas seguintes línguas? - outras línguas",language_use,other,0
+001,983,7/14/2026 10:42,speak_1,6,Fala bem... - inglês?,language_proficiency,english,6
+001,983,7/14/2026 10:42,speak_2,6,Fala bem... - português?,language_proficiency,portuguese,6
+001,983,7/14/2026 10:42,understand_1,6,Percebe bem... - inglês?,language_proficiency,english,6
+001,983,7/14/2026 10:42,understand_2,6,Percebe bem... - português?,language_proficiency,portuguese,6
+001,983,7/14/2026 10:42,read_1,6,Lê bem... - inglês?,language_proficiency,english,6
+001,983,7/14/2026 10:42,read_2,6,Lê bem... - português?,language_proficiency,portuguese,6
+001,983,7/14/2026 10:42,write_1,6,Escreve bem... - inglês?,language_proficiency,english,6
+001,983,7/14/2026 10:42,write_2,6,Escreve bem... - português?,language_proficiency,portuguese,6
+001,983,7/14/2026 10:42,feel_self_1,5,Sinto-me eu próprio quando falo em... - inglês,language_attitude,english,5
+001,983,7/14/2026 10:42,feel_self_2,6,Sinto-me eu próprio quando falo em... - português,language_attitude,portuguese,6
+001,983,7/14/2026 10:42,culture_1,6,Identifico-me com uma cultura... - inglesa,language_attitude,other,6
+001,983,7/14/2026 10:42,culture_2,5,Identifico-me com uma cultura... - portuguesa,language_attitude,other,5
+001,983,7/14/2026 10:42,native_self_1,6,Considero importante para mim usar (ou eventualemente usar) o ... como um nativo. - inglês,language_attitude,english,6
+001,983,7/14/2026 10:42,native_self_2,6,Considero importante para mim usar (ou eventualemente usar) o ... como um nativo. - português,language_attitude,portuguese,6
+001,983,7/14/2026 10:42,native_other_1,0,Quero que os outros achem que o ... é a minha língua materna. - inglês,language_attitude,english,0
+001,983,7/14/2026 10:42,native_other_2,6,Quero que os outros achem que o ... é a minha língua materna. - português,language_attitude,portuguese,6
+002,286,7/25/2026 12:15,start_learning_1,0,Com que idade começou a aprender as seguintes línguas? - inglês,language_history,english,20
+002,286,7/25/2026 12:15,start_learning_2,0,Com que idade começou a aprender as seguintes línguas? - português,language_history,portuguese,20
+002,286,7/25/2026 12:15,feel_comfortable_1,0,Com que idade começou a sentir-se confortável utilizando as seguintes línguas - inglês,language_history,english,0
+002,286,7/25/2026 12:15,feel_comfortable_2,20,Com que idade começou a sentir-se confortável utilizando as seguintes línguas - português,language_history,portuguese,20
+002,286,7/25/2026 12:15,classes_1,20,"Quantos anos de aulas (gramática, história, matemática, etc.) teve nas seguintes línguas (escola primária até à universidad? - inglês",language_history,english,20
+002,286,7/25/2026 12:15,classes_2,3,"Quantos anos de aulas (gramática, história, matemática, etc.) teve nas seguintes línguas (escola primária até à universidad? - português",language_history,portuguese,3
+002,286,7/25/2026 12:15,lusofono_country_1,20,Qunatos anos passou num país/região onde as seguintes línguas são faladas? - inglês,language_history,english,20
+002,286,7/25/2026 12:15,lusofono_country_2,2,Qunatos anos passou num país/região onde as seguintes línguas são faladas? - português,language_history,portuguese,2
+002,286,7/25/2026 12:15,family_1...27,20,Quantos anos passou no seio de uma família onde as seguintes línguas são faladas? - inglês,language_history,english,20
+002,286,7/25/2026 12:15,family_2...28,20,Quantos anos passou no seio de uma família onde as seguintes línguas são faladas? - português,language_history,portuguese,20
+002,286,7/25/2026 12:15,work_1,9,Quantos anos passou num ambiente de trabalho em que as seguintes línguas são faladas? - inglês,language_history,english,9
+002,286,7/25/2026 12:15,work_2,2,Quantos anos passou num ambiente de trabalho em que as seguintes línguas são faladas? - português,language_history,portuguese,2
+002,286,7/25/2026 12:15,friends_1,80,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - inglês",language_use,english,80
+002,286,7/25/2026 12:15,friends_2,20,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - português",language_use,portuguese,20
+002,286,7/25/2026 12:15,friends_3,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - outras línguas",language_use,other,0
+002,286,7/25/2026 12:15,family_1...34,30,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - inglês",language_use,english,30
+002,286,7/25/2026 12:15,family_2...35,70,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - português",language_use,portuguese,70
+002,286,7/25/2026 12:15,family_3,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - outras línguas",language_use,other,0
+002,286,7/25/2026 12:15,work_school_1,90,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - inglês",language_use,english,90
+002,286,7/25/2026 12:15,work_school_2,10,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - português",language_use,portuguese,10
+002,286,7/25/2026 12:15,work_school_3,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - outras línguas",language_use,other,0
+002,286,7/25/2026 12:15,talk_self_1,50,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - inglês",language_use,english,50
+002,286,7/25/2026 12:15,talk_self_2,50,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - português",language_use,portuguese,50
+002,286,7/25/2026 12:15,talk_self_3,0,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - outras línguas",language_use,other,0
+002,286,7/25/2026 12:15,count_1,100,"Quando conta, com que frequência conta nas seguintes línguas? - inglês",language_use,english,100
+002,286,7/25/2026 12:15,count_2,0,"Quando conta, com que frequência conta nas seguintes línguas? - português",language_use,portuguese,0
+002,286,7/25/2026 12:15,count_3,0,"Quando conta, com que frequência conta nas seguintes línguas? - outras línguas",language_use,other,0
+002,286,7/25/2026 12:15,speak_1,6,Fala bem... - inglês?,language_proficiency,english,6
+002,286,7/25/2026 12:15,speak_2,5,Fala bem... - português?,language_proficiency,portuguese,5
+002,286,7/25/2026 12:15,understand_1,6,Percebe bem... - inglês?,language_proficiency,english,6
+002,286,7/25/2026 12:15,understand_2,5,Percebe bem... - português?,language_proficiency,portuguese,5
+002,286,7/25/2026 12:15,read_1,6,Lê bem... - inglês?,language_proficiency,english,6
+002,286,7/25/2026 12:15,read_2,5,Lê bem... - português?,language_proficiency,portuguese,5
+002,286,7/25/2026 12:15,write_1,6,Escreve bem... - inglês?,language_proficiency,english,6
+002,286,7/25/2026 12:15,write_2,5,Escreve bem... - português?,language_proficiency,portuguese,5
+002,286,7/25/2026 12:15,feel_self_1,6,Sinto-me eu próprio quando falo em... - inglês,language_attitude,english,6
+002,286,7/25/2026 12:15,feel_self_2,4,Sinto-me eu próprio quando falo em... - português,language_attitude,portuguese,4
+002,286,7/25/2026 12:15,culture_1,6,Identifico-me com uma cultura... - inglesa,language_attitude,other,6
+002,286,7/25/2026 12:15,culture_2,6,Identifico-me com uma cultura... - portuguesa,language_attitude,other,6
+002,286,7/25/2026 12:15,native_self_1,6,Considero importante para mim usar (ou eventualemente usar) o ... como um nativo. - inglês,language_attitude,english,6
+002,286,7/25/2026 12:15,native_self_2,5,Considero importante para mim usar (ou eventualemente usar) o ... como um nativo. - português,language_attitude,portuguese,5
+002,286,7/25/2026 12:15,native_other_1,6,Quero que os outros achem que o ... é a minha língua materna. - inglês,language_attitude,english,6
+002,286,7/25/2026 12:15,native_other_2,4,Quero que os outros achem que o ... é a minha língua materna. - português,language_attitude,portuguese,4
+003,128,7/27/2026 13:07,start_learning_1,0,Com que idade começou a aprender as seguintes línguas? - inglês,language_history,english,20
+003,128,7/27/2026 13:07,start_learning_2,20,Com que idade começou a aprender as seguintes línguas? - português,language_history,portuguese,0
+003,128,7/27/2026 13:07,feel_comfortable_1,0,Com que idade começou a sentir-se confortável utilizando as seguintes línguas - inglês,language_history,english,0
+003,128,7/27/2026 13:07,feel_comfortable_2,20,Com que idade começou a sentir-se confortável utilizando as seguintes línguas - português,language_history,portuguese,20
+003,128,7/27/2026 13:07,classes_1,20,"Quantos anos de aulas (gramática, história, matemática, etc.) teve nas seguintes línguas (escola primária até à universidad? - inglês",language_history,english,20
+003,128,7/27/2026 13:07,classes_2,0,"Quantos anos de aulas (gramática, história, matemática, etc.) teve nas seguintes línguas (escola primária até à universidad? - português",language_history,portuguese,0
+003,128,7/27/2026 13:07,lusofono_country_1,20,Qunatos anos passou num país/região onde as seguintes línguas são faladas? - inglês,language_history,english,20
+003,128,7/27/2026 13:07,lusofono_country_2,0,Qunatos anos passou num país/região onde as seguintes línguas são faladas? - português,language_history,portuguese,0
+003,128,7/27/2026 13:07,family_1...27,20,Quantos anos passou no seio de uma família onde as seguintes línguas são faladas? - inglês,language_history,english,20
+003,128,7/27/2026 13:07,family_2...28,0,Quantos anos passou no seio de uma família onde as seguintes línguas são faladas? - português,language_history,portuguese,0
+003,128,7/27/2026 13:07,work_1,20,Quantos anos passou num ambiente de trabalho em que as seguintes línguas são faladas? - inglês,language_history,english,20
+003,128,7/27/2026 13:07,work_2,1,Quantos anos passou num ambiente de trabalho em que as seguintes línguas são faladas? - português,language_history,portuguese,1
+003,128,7/27/2026 13:07,friends_1,80,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - inglês",language_use,english,80
+003,128,7/27/2026 13:07,friends_2,5,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - português",language_use,portuguese,5
+003,128,7/27/2026 13:07,friends_3,15,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com amigos? - outras línguas",language_use,other,15
+003,128,7/27/2026 13:07,family_1...34,100,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - inglês",language_use,english,100
+003,128,7/27/2026 13:07,family_2...35,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - português",language_use,portuguese,0
+003,128,7/27/2026 13:07,family_3,0,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas com a família? - outras línguas",language_use,other,0
+003,128,7/27/2026 13:07,work_school_1,60,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - inglês",language_use,english,60
+003,128,7/27/2026 13:07,work_school_2,5,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - português",language_use,portuguese,5
+003,128,7/27/2026 13:07,work_school_3,35,"Durante uma semana típica, que percentagem de tempo usa as seguintes línguas na escola / no trabalho? - outras línguas",language_use,other,35
+003,128,7/27/2026 13:07,talk_self_1,90,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - inglês",language_use,english,90
+003,128,7/27/2026 13:07,talk_self_2,0,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - português",language_use,portuguese,0
+003,128,7/27/2026 13:07,talk_self_3,10,"Quando fala consigo próprio, com que frequência fala consigo próprio nas seguintes línguas? - outras línguas",language_use,other,10
+003,128,7/27/2026 13:07,count_1,100,"Quando conta, com que frequência conta nas seguintes línguas? - inglês",language_use,english,100
+003,128,7/27/2026 13:07,count_2,0,"Quando conta, com que frequência conta nas seguintes línguas? - português",language_use,portuguese,0
+003,128,7/27/2026 13:07,count_3,0,"Quando conta, com que frequência conta nas seguintes línguas? - outras línguas",language_use,other,0
+003,128,7/27/2026 13:07,speak_1,6,Fala bem... - inglês?,language_proficiency,english,6
+003,128,7/27/2026 13:07,speak_2,2,Fala bem... - português?,language_proficiency,portuguese,2
+003,128,7/27/2026 13:07,understand_1,6,Percebe bem... - inglês?,language_proficiency,english,6
+003,128,7/27/2026 13:07,understand_2,3,Percebe bem... - português?,language_proficiency,portuguese,3
+003,128,7/27/2026 13:07,read_1,6,Lê bem... - inglês?,language_proficiency,english,6
+003,128,7/27/2026 13:07,read_2,4,Lê bem... - português?,language_proficiency,portuguese,4
+003,128,7/27/2026 13:07,write_1,6,Escreve bem... - inglês?,language_proficiency,english,6
+003,128,7/27/2026 13:07,write_2,3,Escreve bem... - português?,language_proficiency,portuguese,3
+003,128,7/27/2026 13:07,feel_self_1,6,Sinto-me eu próprio quando falo em... - inglês,language_attitude,english,6
+003,128,7/27/2026 13:07,feel_self_2,2,Sinto-me eu próprio quando falo em... - português,language_attitude,portuguese,2
+003,128,7/27/2026 13:07,culture_1,6,Identifico-me com uma cultura... - inglesa,language_attitude,other,6
+003,128,7/27/2026 13:07,culture_2,0,Identifico-me com uma cultura... - portuguesa,language_attitude,other,0
+003,128,7/27/2026 13:07,native_self_1,6,Considero importante para mim usar (ou eventualemente usar) o ... como um nativo. - inglês,language_attitude,english,6
+003,128,7/27/2026 13:07,native_self_2,0,Considero importante para mim usar (ou eventualemente usar) o ... como um nativo. - português,language_attitude,portuguese,0
+003,128,7/27/2026 13:07,native_other_1,6,Quero que os outros achem que o ... é a minha língua materna. - inglês,language_attitude,english,6
+003,128,7/27/2026 13:07,native_other_2,0,Quero que os outros achem que o ... é a minha língua materna. - português,language_attitude,portuguese,0
