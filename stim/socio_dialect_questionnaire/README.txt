@@ -1,0 +1,1 @@
+.qsf file and .docx file for the sociodemographic/dialect contact survey. The .qsf file can be loaded directly into Qualtrics.

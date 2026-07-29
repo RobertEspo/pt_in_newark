@@ -1,0 +1,364 @@
+duration,date,participant_id,question_code,participant_response
+2394,7/6/2026 16:08,002,Age,23
+2394,7/6/2026 16:08,002,Gender,Feminino
+2394,7/6/2026 16:08,002,Origin_pais,Estados Unidos
+2394,7/6/2026 16:08,002,Origin_pais_14_TEXT,NA
+2394,7/6/2026 16:08,002,Origin_city,Boston
+2394,7/6/2026 16:08,002,Origin_USborn_mother_1,Brasil
+2394,7/6/2026 16:08,002,Origin_USborn_mother_2,Porto Alegre
+2394,7/6/2026 16:08,002,Origin_USborn_father_1,Estados unidos
+2394,7/6/2026 16:08,002,Origin_USborn_father_2,Boston
+2394,7/6/2026 16:08,002,Edu_level,Pós-graduação
+2394,7/6/2026 16:08,002,Edu_loc_primary,Estados Unidos
+2394,7/6/2026 16:08,002,Edu_loc_primary_14_TEXT,NA
+2394,7/6/2026 16:08,002,Edu_loc_secondary,Estados Unidos
+2394,7/6/2026 16:08,002,Edu_loc_secondary_14_TEXT,NA
+2394,7/6/2026 16:08,002,Edu_loc_universidade,Estados Unidos
+2394,7/6/2026 16:08,002,Edu_loc_universidade_14_TEXT,NA
+2394,7/6/2026 16:08,002,Edu_loc_postgrad,Estados Unidos
+2394,7/6/2026 16:08,002,Edu_loc_postgrad_14_TEXT,NA
+2394,7/6/2026 16:08,002,EDU_notes,NA
+2394,7/6/2026 16:08,002,SES_1,Média
+2394,7/6/2026 16:08,002,SES_2,Média
+2394,7/6/2026 16:08,002,SES_notes,NA
+2394,7/6/2026 16:08,002,AoA,0
+2394,7/6/2026 16:08,002,Years_in_nj,0
+2394,7/6/2026 16:08,002,Arrival_notes,NA
+2394,7/6/2026 16:08,002,Other_locales_y_n,Si
+2394,7/6/2026 16:08,002,Other_locales_info_1,Boston
+2394,7/6/2026 16:08,002,Other_locales_info_2,20
+2394,7/6/2026 16:08,002,Other_locales_notes,NA
+2394,7/6/2026 16:08,002,Contact_groups,"Brasil,Cabo Verde,Estados Unidos,Portugal"
+2394,7/6/2026 16:08,002,Contact_groups_14_TEXT,NA
+2394,7/6/2026 16:08,002,Contacts_notes,NA
+2394,7/6/2026 16:08,002,Açores_contact_1,NA
+2394,7/6/2026 16:08,002,Açores_contact_2,NA
+2394,7/6/2026 16:08,002,Açores_contact_3,NA
+2394,7/6/2026 16:08,002,Açores_contact_4,NA
+2394,7/6/2026 16:08,002,Açores_contact_5,NA
+2394,7/6/2026 16:08,002,Açores_notes,NA
+2394,7/6/2026 16:08,002,Angola_contact_1,NA
+2394,7/6/2026 16:08,002,Angola_contact_2,NA
+2394,7/6/2026 16:08,002,Angola_contact_3,NA
+2394,7/6/2026 16:08,002,Angola_contact_4,NA
+2394,7/6/2026 16:08,002,Angola_contact_5,NA
+2394,7/6/2026 16:08,002,Angola_notes,NA
+2394,7/6/2026 16:08,002,Brasil_contact_1,Diariamente
+2394,7/6/2026 16:08,002,Brasil_contact_2,A cada duas semanas
+2394,7/6/2026 16:08,002,Brasil_contact_3,Cada semana
+2394,7/6/2026 16:08,002,Brasil_contact_4,Diariamente
+2394,7/6/2026 16:08,002,Brasil_contact_5,Diariamente
+2394,7/6/2026 16:08,002,Brasil_region_contac_1,Quase nunca
+2394,7/6/2026 16:08,002,Brasil_region_contac_2,Cada semana
+2394,7/6/2026 16:08,002,Brasil_region_contac_3,Quase nunca
+2394,7/6/2026 16:08,002,Brasil_region_contac_4,Diariamente
+2394,7/6/2026 16:08,002,Brasil_region_contac_5,Diariamente
+2394,7/6/2026 16:08,002,Brasil_notes,NA
+2394,7/6/2026 16:08,002,Cabo_Verde_contact_1,Quase nunca
+2394,7/6/2026 16:08,002,Cabo_Verde_contact_2,Menos de uma vez por mês
+2394,7/6/2026 16:08,002,Cabo_Verde_contact_3,Quase nunca
+2394,7/6/2026 16:08,002,Cabo_Verde_contact_4,Quase nunca
+2394,7/6/2026 16:08,002,Cabo_Verde_contact_5,Menos de uma vez por mês
+2394,7/6/2026 16:08,002,Cabo_verde_notes,NA
+2394,7/6/2026 16:08,002,EUA_contact_1,Quase nunca
+2394,7/6/2026 16:08,002,EUA_contact_2,Quase nunca
+2394,7/6/2026 16:08,002,EUA_contact_3,Diariamente
+2394,7/6/2026 16:08,002,EUA_contact_4,Diariamente
+2394,7/6/2026 16:08,002,EUA_contact_5,Quase nunca
+2394,7/6/2026 16:08,002,EUA_notes,NA
+2394,7/6/2026 16:08,002,Guiné-Bissau_contact_1,NA
+2394,7/6/2026 16:08,002,Guiné-Bissau_contact_2,NA
+2394,7/6/2026 16:08,002,Guiné-Bissau_contact_3,NA
+2394,7/6/2026 16:08,002,Guiné-Bissau_contact_4,NA
+2394,7/6/2026 16:08,002,Guiné-Bissau_contact_5,NA
+2394,7/6/2026 16:08,002,Guiné_Bissau_notes,NA
+2394,7/6/2026 16:08,002,Guiné_Eq_contact_1,NA
+2394,7/6/2026 16:08,002,Guiné_Eq_contact_2,NA
+2394,7/6/2026 16:08,002,Guiné_Eq_contact_3,NA
+2394,7/6/2026 16:08,002,Guiné_Eq_contact_4,NA
+2394,7/6/2026 16:08,002,Guiné_Eq_contact_5,NA
+2394,7/6/2026 16:08,002,Guiné_Eq_notes,NA
+2394,7/6/2026 16:08,002,Macau_contact_1,NA
+2394,7/6/2026 16:08,002,Macau_contact_2,NA
+2394,7/6/2026 16:08,002,Macau_contact_3,NA
+2394,7/6/2026 16:08,002,Macau_contact_4,NA
+2394,7/6/2026 16:08,002,Macau_contact_5,NA
+2394,7/6/2026 16:08,002,Macau_notes,NA
+2394,7/6/2026 16:08,002,Madeira_contact_1,NA
+2394,7/6/2026 16:08,002,Madeira_contact_2,NA
+2394,7/6/2026 16:08,002,Madeira_contact_3,NA
+2394,7/6/2026 16:08,002,Madeira_contact_4,NA
+2394,7/6/2026 16:08,002,Madeira_contact_5,NA
+2394,7/6/2026 16:08,002,Madeira_notes,NA
+2394,7/6/2026 16:08,002,Moçambique_contact_1,NA
+2394,7/6/2026 16:08,002,Moçambique_contact_2,NA
+2394,7/6/2026 16:08,002,Moçambique_contact_3,NA
+2394,7/6/2026 16:08,002,Moçambique_contact_4,NA
+2394,7/6/2026 16:08,002,Moçambique_contact_5,NA
+2394,7/6/2026 16:08,002,Moçambique_notes,NA
+2394,7/6/2026 16:08,002,Portugal_1,Quase nunca
+2394,7/6/2026 16:08,002,Portugal_2,Quase nunca
+2394,7/6/2026 16:08,002,Portugal_3,Quase nunca
+2394,7/6/2026 16:08,002,Portugal_4,Cada semana
+2394,7/6/2026 16:08,002,Portugal_5,Uma vez por mês
+2394,7/6/2026 16:08,002,Portugal_notes,NA
+2394,7/6/2026 16:08,002,São_Tomé_contact_1,NA
+2394,7/6/2026 16:08,002,São_Tomé_contact_2,NA
+2394,7/6/2026 16:08,002,São_Tomé_contact_3,NA
+2394,7/6/2026 16:08,002,São_Tomé_contact_4,NA
+2394,7/6/2026 16:08,002,São_Tomé_contact_5,NA
+2394,7/6/2026 16:08,002,São_Tomé_notes,NA
+2394,7/6/2026 16:08,002,Timor-Leste_contact_1,NA
+2394,7/6/2026 16:08,002,Timor-Leste_contact_2,NA
+2394,7/6/2026 16:08,002,Timor-Leste_contact_3,NA
+2394,7/6/2026 16:08,002,Timor-Leste_contact_4,NA
+2394,7/6/2026 16:08,002,Timor-Leste_contact_5,NA
+2394,7/6/2026 16:08,002,Timor_Leste_notes,NA
+2394,7/6/2026 16:08,002,Other_contact_1,NA
+2394,7/6/2026 16:08,002,Other_contact_2,NA
+2394,7/6/2026 16:08,002,Other_contact_3,NA
+2394,7/6/2026 16:08,002,Other_contact_4,NA
+2394,7/6/2026 16:08,002,Other_contact_5,NA
+2394,7/6/2026 16:08,002,Other_notes,NA
+555,7/14/2026 10:51,001,Age,53
+555,7/14/2026 10:51,001,Gender,Femenino
+555,7/14/2026 10:51,001,Origin_pais,Brasil
+555,7/14/2026 10:51,001,Origin_pais_14_TEXT,NA
+555,7/14/2026 10:51,001,Origin_city,"São Gonçalo, Rio de Janeiro"
+555,7/14/2026 10:51,001,Origin_USborn_mother_1,NA
+555,7/14/2026 10:51,001,Origin_USborn_mother_2,NA
+555,7/14/2026 10:51,001,Origin_USborn_father_1,NA
+555,7/14/2026 10:51,001,Origin_USborn_father_2,NA
+555,7/14/2026 10:51,001,Edu_level,Pós-graduação
+555,7/14/2026 10:51,001,Edu_loc_primary,Brasil
+555,7/14/2026 10:51,001,Edu_loc_primary_14_TEXT,NA
+555,7/14/2026 10:51,001,Edu_loc_secondary,Brasil
+555,7/14/2026 10:51,001,Edu_loc_secondary_14_TEXT,NA
+555,7/14/2026 10:51,001,Edu_loc_universidade,Brasil
+555,7/14/2026 10:51,001,Edu_loc_universidade_14_TEXT,NA
+555,7/14/2026 10:51,001,Edu_loc_postgrad,Estados Unidos
+555,7/14/2026 10:51,001,Edu_loc_postgrad_14_TEXT,NA
+555,7/14/2026 10:51,001,EDU_notes,NA
+555,7/14/2026 10:51,001,SES_1,Média
+555,7/14/2026 10:51,001,SES_2,Média
+555,7/14/2026 10:51,001,SES_notes,NA
+555,7/14/2026 10:51,001,AoA,25
+555,7/14/2026 10:51,001,Years_in_nj,20
+555,7/14/2026 10:51,001,Arrival_notes,NA
+555,7/14/2026 10:51,001,Other_locales_y_n,Si
+555,7/14/2026 10:51,001,Other_locales_info_1,Virginia
+555,7/14/2026 10:51,001,Other_locales_info_2,3
+555,7/14/2026 10:51,001,Other_locales_notes,NA
+555,7/14/2026 10:51,001,Contact_groups,"Brasil,Estados Unidos,Moçambique,Portugal"
+555,7/14/2026 10:51,001,Contact_groups_14_TEXT,NA
+555,7/14/2026 10:51,001,Contacts_notes,NA
+555,7/14/2026 10:51,001,Açores_contact_1,NA
+555,7/14/2026 10:51,001,Açores_contact_2,NA
+555,7/14/2026 10:51,001,Açores_contact_3,NA
+555,7/14/2026 10:51,001,Açores_contact_4,NA
+555,7/14/2026 10:51,001,Açores_contact_5,NA
+555,7/14/2026 10:51,001,Açores_notes,NA
+555,7/14/2026 10:51,001,Angola_contact_1,NA
+555,7/14/2026 10:51,001,Angola_contact_2,NA
+555,7/14/2026 10:51,001,Angola_contact_3,NA
+555,7/14/2026 10:51,001,Angola_contact_4,NA
+555,7/14/2026 10:51,001,Angola_contact_5,NA
+555,7/14/2026 10:51,001,Angola_notes,NA
+555,7/14/2026 10:51,001,Brasil_contact_1,Diariamente
+555,7/14/2026 10:51,001,Brasil_contact_2,Quase nunca
+555,7/14/2026 10:51,001,Brasil_contact_3,Diariamente
+555,7/14/2026 10:51,001,Brasil_contact_4,Diariamente
+555,7/14/2026 10:51,001,Brasil_contact_5,Várias vezes por semana
+555,7/14/2026 10:51,001,Brasil_region_contac_1,Diariamente
+555,7/14/2026 10:51,001,Brasil_region_contac_2,Várias vezes por semana
+555,7/14/2026 10:51,001,Brasil_region_contac_3,Menos de uma vez por mês
+555,7/14/2026 10:51,001,Brasil_region_contac_4,Diariamente
+555,7/14/2026 10:51,001,Brasil_region_contac_5,Menos de uma vez por mês
+555,7/14/2026 10:51,001,Brasil_notes,NA
+555,7/14/2026 10:51,001,Cabo_Verde_contact_1,NA
+555,7/14/2026 10:51,001,Cabo_Verde_contact_2,NA
+555,7/14/2026 10:51,001,Cabo_Verde_contact_3,NA
+555,7/14/2026 10:51,001,Cabo_Verde_contact_4,NA
+555,7/14/2026 10:51,001,Cabo_Verde_contact_5,NA
+555,7/14/2026 10:51,001,Cabo_verde_notes,NA
+555,7/14/2026 10:51,001,EUA_contact_1,Diariamente
+555,7/14/2026 10:51,001,EUA_contact_2,Quase nunca
+555,7/14/2026 10:51,001,EUA_contact_3,Diariamente
+555,7/14/2026 10:51,001,EUA_contact_4,Menos de uma vez por mês
+555,7/14/2026 10:51,001,EUA_contact_5,Menos de uma vez por mês
+555,7/14/2026 10:51,001,EUA_notes,NA
+555,7/14/2026 10:51,001,Guiné-Bissau_contact_1,NA
+555,7/14/2026 10:51,001,Guiné-Bissau_contact_2,NA
+555,7/14/2026 10:51,001,Guiné-Bissau_contact_3,NA
+555,7/14/2026 10:51,001,Guiné-Bissau_contact_4,NA
+555,7/14/2026 10:51,001,Guiné-Bissau_contact_5,NA
+555,7/14/2026 10:51,001,Guiné_Bissau_notes,NA
+555,7/14/2026 10:51,001,Guiné_Eq_contact_1,NA
+555,7/14/2026 10:51,001,Guiné_Eq_contact_2,NA
+555,7/14/2026 10:51,001,Guiné_Eq_contact_3,NA
+555,7/14/2026 10:51,001,Guiné_Eq_contact_4,NA
+555,7/14/2026 10:51,001,Guiné_Eq_contact_5,NA
+555,7/14/2026 10:51,001,Guiné_Eq_notes,NA
+555,7/14/2026 10:51,001,Macau_contact_1,NA
+555,7/14/2026 10:51,001,Macau_contact_2,NA
+555,7/14/2026 10:51,001,Macau_contact_3,NA
+555,7/14/2026 10:51,001,Macau_contact_4,NA
+555,7/14/2026 10:51,001,Macau_contact_5,NA
+555,7/14/2026 10:51,001,Macau_notes,NA
+555,7/14/2026 10:51,001,Madeira_contact_1,NA
+555,7/14/2026 10:51,001,Madeira_contact_2,NA
+555,7/14/2026 10:51,001,Madeira_contact_3,NA
+555,7/14/2026 10:51,001,Madeira_contact_4,NA
+555,7/14/2026 10:51,001,Madeira_contact_5,NA
+555,7/14/2026 10:51,001,Madeira_notes,NA
+555,7/14/2026 10:51,001,Moçambique_contact_1,Quase nunca
+555,7/14/2026 10:51,001,Moçambique_contact_2,Quase nunca
+555,7/14/2026 10:51,001,Moçambique_contact_3,Várias vezes por semana
+555,7/14/2026 10:51,001,Moçambique_contact_4,Quase nunca
+555,7/14/2026 10:51,001,Moçambique_contact_5,Quase nunca
+555,7/14/2026 10:51,001,Moçambique_notes,NA
+555,7/14/2026 10:51,001,Portugal_1,Quase nunca
+555,7/14/2026 10:51,001,Portugal_2,Quase nunca
+555,7/14/2026 10:51,001,Portugal_3,Diariamente
+555,7/14/2026 10:51,001,Portugal_4,Menos de uma vez por mês
+555,7/14/2026 10:51,001,Portugal_5,Menos de uma vez por mês
+555,7/14/2026 10:51,001,Portugal_notes,NA
+555,7/14/2026 10:51,001,São_Tomé_contact_1,NA
+555,7/14/2026 10:51,001,São_Tomé_contact_2,NA
+555,7/14/2026 10:51,001,São_Tomé_contact_3,NA
+555,7/14/2026 10:51,001,São_Tomé_contact_4,NA
+555,7/14/2026 10:51,001,São_Tomé_contact_5,NA
+555,7/14/2026 10:51,001,São_Tomé_notes,NA
+555,7/14/2026 10:51,001,Timor-Leste_contact_1,NA
+555,7/14/2026 10:51,001,Timor-Leste_contact_2,NA
+555,7/14/2026 10:51,001,Timor-Leste_contact_3,NA
+555,7/14/2026 10:51,001,Timor-Leste_contact_4,NA
+555,7/14/2026 10:51,001,Timor-Leste_contact_5,NA
+555,7/14/2026 10:51,001,Timor_Leste_notes,NA
+555,7/14/2026 10:51,001,Other_contact_1,NA
+555,7/14/2026 10:51,001,Other_contact_2,NA
+555,7/14/2026 10:51,001,Other_contact_3,NA
+555,7/14/2026 10:51,001,Other_contact_4,NA
+555,7/14/2026 10:51,001,Other_contact_5,NA
+555,7/14/2026 10:51,001,Other_notes,NA
+155,7/27/2026 13:10,003,Age,29
+155,7/27/2026 13:10,003,Gender,Male
+155,7/27/2026 13:10,003,Origin_pais,Estados Unidos
+155,7/27/2026 13:10,003,Origin_pais_14_TEXT,NA
+155,7/27/2026 13:10,003,Origin_city,Colonia
+155,7/27/2026 13:10,003,Origin_USborn_mother_1,United States
+155,7/27/2026 13:10,003,Origin_USborn_mother_2,Colonia
+155,7/27/2026 13:10,003,Origin_USborn_father_1,United States
+155,7/27/2026 13:10,003,Origin_USborn_father_2,Elizabeth
+155,7/27/2026 13:10,003,Edu_level,Pós-graduação
+155,7/27/2026 13:10,003,Edu_loc_primary,Estados Unidos
+155,7/27/2026 13:10,003,Edu_loc_primary_14_TEXT,NA
+155,7/27/2026 13:10,003,Edu_loc_secondary,Estados Unidos
+155,7/27/2026 13:10,003,Edu_loc_secondary_14_TEXT,NA
+155,7/27/2026 13:10,003,Edu_loc_universidade,Estados Unidos
+155,7/27/2026 13:10,003,Edu_loc_universidade_14_TEXT,NA
+155,7/27/2026 13:10,003,Edu_loc_postgrad,Estados Unidos
+155,7/27/2026 13:10,003,Edu_loc_postgrad_14_TEXT,NA
+155,7/27/2026 13:10,003,EDU_notes,NA
+155,7/27/2026 13:10,003,SES_1,Média-alta
+155,7/27/2026 13:10,003,SES_2,NA
+155,7/27/2026 13:10,003,SES_notes,NA
+155,7/27/2026 13:10,003,AoA,0
+155,7/27/2026 13:10,003,Years_in_nj,28
+155,7/27/2026 13:10,003,Arrival_notes,NA
+155,7/27/2026 13:10,003,Other_locales_y_n,Não
+155,7/27/2026 13:10,003,Other_locales_info_1,NA
+155,7/27/2026 13:10,003,Other_locales_info_2,NA
+155,7/27/2026 13:10,003,Other_locales_notes,NA
+155,7/27/2026 13:10,003,Contact_groups,"Brasil,Portugal"
+155,7/27/2026 13:10,003,Contact_groups_14_TEXT,NA
+155,7/27/2026 13:10,003,Contacts_notes,NA
+155,7/27/2026 13:10,003,Açores_contact_1,NA
+155,7/27/2026 13:10,003,Açores_contact_2,NA
+155,7/27/2026 13:10,003,Açores_contact_3,NA
+155,7/27/2026 13:10,003,Açores_contact_4,NA
+155,7/27/2026 13:10,003,Açores_contact_5,NA
+155,7/27/2026 13:10,003,Açores_notes,NA
+155,7/27/2026 13:10,003,Angola_contact_1,NA
+155,7/27/2026 13:10,003,Angola_contact_2,NA
+155,7/27/2026 13:10,003,Angola_contact_3,NA
+155,7/27/2026 13:10,003,Angola_contact_4,NA
+155,7/27/2026 13:10,003,Angola_contact_5,NA
+155,7/27/2026 13:10,003,Angola_notes,NA
+155,7/27/2026 13:10,003,Brasil_contact_1,Quase nunca
+155,7/27/2026 13:10,003,Brasil_contact_2,Quase nunca
+155,7/27/2026 13:10,003,Brasil_contact_3,Cada semana
+155,7/27/2026 13:10,003,Brasil_contact_4,Quase nunca
+155,7/27/2026 13:10,003,Brasil_contact_5,Várias vezes por semana
+155,7/27/2026 13:10,003,Brasil_region_contac_1,Uma vez por mês
+155,7/27/2026 13:10,003,Brasil_region_contac_2,A cada duas semanas
+155,7/27/2026 13:10,003,Brasil_region_contac_3,Quase nunca
+155,7/27/2026 13:10,003,Brasil_region_contac_4,Não sei
+155,7/27/2026 13:10,003,Brasil_region_contac_5,Menos de uma vez por mês
+155,7/27/2026 13:10,003,Brasil_notes,NA
+155,7/27/2026 13:10,003,Cabo_Verde_contact_1,NA
+155,7/27/2026 13:10,003,Cabo_Verde_contact_2,NA
+155,7/27/2026 13:10,003,Cabo_Verde_contact_3,NA
+155,7/27/2026 13:10,003,Cabo_Verde_contact_4,NA
+155,7/27/2026 13:10,003,Cabo_Verde_contact_5,NA
+155,7/27/2026 13:10,003,Cabo_verde_notes,NA
+155,7/27/2026 13:10,003,EUA_contact_1,NA
+155,7/27/2026 13:10,003,EUA_contact_2,NA
+155,7/27/2026 13:10,003,EUA_contact_3,NA
+155,7/27/2026 13:10,003,EUA_contact_4,NA
+155,7/27/2026 13:10,003,EUA_contact_5,NA
+155,7/27/2026 13:10,003,EUA_notes,NA
+155,7/27/2026 13:10,003,Guiné-Bissau_contact_1,NA
+155,7/27/2026 13:10,003,Guiné-Bissau_contact_2,NA
+155,7/27/2026 13:10,003,Guiné-Bissau_contact_3,NA
+155,7/27/2026 13:10,003,Guiné-Bissau_contact_4,NA
+155,7/27/2026 13:10,003,Guiné-Bissau_contact_5,NA
+155,7/27/2026 13:10,003,Guiné_Bissau_notes,NA
+155,7/27/2026 13:10,003,Guiné_Eq_contact_1,NA
+155,7/27/2026 13:10,003,Guiné_Eq_contact_2,NA
+155,7/27/2026 13:10,003,Guiné_Eq_contact_3,NA
+155,7/27/2026 13:10,003,Guiné_Eq_contact_4,NA
+155,7/27/2026 13:10,003,Guiné_Eq_contact_5,NA
+155,7/27/2026 13:10,003,Guiné_Eq_notes,NA
+155,7/27/2026 13:10,003,Macau_contact_1,NA
+155,7/27/2026 13:10,003,Macau_contact_2,NA
+155,7/27/2026 13:10,003,Macau_contact_3,NA
+155,7/27/2026 13:10,003,Macau_contact_4,NA
+155,7/27/2026 13:10,003,Macau_contact_5,NA
+155,7/27/2026 13:10,003,Macau_notes,NA
+155,7/27/2026 13:10,003,Madeira_contact_1,NA
+155,7/27/2026 13:10,003,Madeira_contact_2,NA
+155,7/27/2026 13:10,003,Madeira_contact_3,NA
+155,7/27/2026 13:10,003,Madeira_contact_4,NA
+155,7/27/2026 13:10,003,Madeira_contact_5,NA
+155,7/27/2026 13:10,003,Madeira_notes,NA
+155,7/27/2026 13:10,003,Moçambique_contact_1,NA
+155,7/27/2026 13:10,003,Moçambique_contact_2,NA
+155,7/27/2026 13:10,003,Moçambique_contact_3,NA
+155,7/27/2026 13:10,003,Moçambique_contact_4,NA
+155,7/27/2026 13:10,003,Moçambique_contact_5,NA
+155,7/27/2026 13:10,003,Moçambique_notes,NA
+155,7/27/2026 13:10,003,Portugal_1,A cada duas semanas
+155,7/27/2026 13:10,003,Portugal_2,Quase nunca
+155,7/27/2026 13:10,003,Portugal_3,Diariamente
+155,7/27/2026 13:10,003,Portugal_4,Uma vez por mês
+155,7/27/2026 13:10,003,Portugal_5,A cada duas semanas
+155,7/27/2026 13:10,003,Portugal_notes,NA
+155,7/27/2026 13:10,003,São_Tomé_contact_1,NA
+155,7/27/2026 13:10,003,São_Tomé_contact_2,NA
+155,7/27/2026 13:10,003,São_Tomé_contact_3,NA
+155,7/27/2026 13:10,003,São_Tomé_contact_4,NA
+155,7/27/2026 13:10,003,São_Tomé_contact_5,NA
+155,7/27/2026 13:10,003,São_Tomé_notes,NA
+155,7/27/2026 13:10,003,Timor-Leste_contact_1,NA
+155,7/27/2026 13:10,003,Timor-Leste_contact_2,NA
+155,7/27/2026 13:10,003,Timor-Leste_contact_3,NA
+155,7/27/2026 13:10,003,Timor-Leste_contact_4,NA
+155,7/27/2026 13:10,003,Timor-Leste_contact_5,NA
+155,7/27/2026 13:10,003,Timor_Leste_notes,NA
+155,7/27/2026 13:10,003,Other_contact_1,NA
+155,7/27/2026 13:10,003,Other_contact_2,NA
+155,7/27/2026 13:10,003,Other_contact_3,NA
+155,7/27/2026 13:10,003,Other_contact_4,NA
+155,7/27/2026 13:10,003,Other_contact_5,NA
+155,7/27/2026 13:10,003,Other_notes,NA

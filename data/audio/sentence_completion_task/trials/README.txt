@@ -1,0 +1,1 @@
+Contains trial information for each participant.

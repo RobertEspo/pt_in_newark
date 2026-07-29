@@ -7,6 +7,7 @@
 # This script renames the audio files to be named after the sentence code.
 # -----------------------------------------------------------------------------
 
+# load libs
 source(here::here("scripts","r","00_libs.R"))
 
 # Load following function & then run the function below
@@ -15,15 +16,15 @@ rename_wavs <- function(participant_code) {
   
   # Read trial mapping
   stim <- read_csv(here(
-    "data", "pilot_tidy", "audio",
+    "data", "audio",
     "sentence_completion_task", "trials",
     paste0(participant_code, ".csv")
   ))
   
   # Audio directory
   audio_dir <- here(
-    "data", "pilot_tidy", "audio",
-    "sentence_completion_task", "audio",
+    "data", "audio",
+    "sentence_completion_task",
     participant_code
   )
   
@@ -39,7 +40,7 @@ rename_wavs <- function(participant_code) {
       
       to <- file.path(
         audio_dir,
-        paste0(participant_code, "-", .y, ".wav")
+        paste0(participant_code, "_", .y, ".wav")
       )
       
       if (file.exists(from)) {
@@ -55,3 +56,4 @@ rename_wavs <- function(participant_code) {
 # e.g., rename_wavs(001) or rename_wavs(020)
 
 rename_wavs()
+

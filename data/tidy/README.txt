@@ -1,0 +1,1 @@
+Tidied .csv files for BLP score, LextPT score, sociodialect survey responses (tidied as much as possible...). Acoustic data stored in "acoustics".

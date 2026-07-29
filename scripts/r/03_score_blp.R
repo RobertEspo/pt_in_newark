@@ -9,7 +9,7 @@
 source(here::here("scripts","r","00_libs.R"))
 
 # load raw data
-raw_blp <- read_csv(here("data","pilot_raw","blp_pt-en_raw.csv"))
+raw_blp <- read_csv(here("data","raw","blp_pt-en_raw.csv"))
 
 # create lookup for questions
 blp_question_lookup <- raw_blp %>%
@@ -125,5 +125,7 @@ blp_scores <- blp_scores_by_language %>%
   ) %>%
   select(participant_id, blp_score)
 
+# negative scores = English dominant
+
 write_csv(blp_scores,
-          here("data","pilot_tidy","blp_scores.csv"))
+          here("data","tidy","blp_scores.csv"))

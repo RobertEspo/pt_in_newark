@@ -1,2 +1,2 @@
 SENTENCE COMPLETION TASK
-Every time you render the .qmd file, the slides are randomized. When run with a participant, name the resulting html file using the participant's code. Will probably eventually move them to a separate folder (maybe inside "data"?).
+Every time you render the .qmd file, the slides are randomized. The trial order will be stored here: data > audio > sentence_completion_task > trials. It will save as a .csv file. The name of the file will follow numerically based on what's previously in the folder. If the folder is empty, it will start at 001.csv and go upwards. The name should match the participant's ID to whom it is/was administered.

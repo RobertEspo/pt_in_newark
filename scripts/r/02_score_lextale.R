@@ -11,7 +11,7 @@
 lextpt_key <- read_csv(here("stim","lextale","lextpt_key.csv"))
 
 # load raw lextpt data from participants
-raw_lextpt <- read_csv(here("data","pilot_raw","lextpt_raw.csv"))
+raw_lextpt <- read_csv(here("data","raw","lextpt_raw.csv"))
 
 # the first row contains the questions
 lextpt_question_lookup <- raw_lextpt %>%
@@ -76,4 +76,4 @@ lextpt_scores <- tidy_lextpt %>%
 
 # write lextale scores
 write_csv(lextpt_scores,
-          here("data","pilot_tidy","lextpt_scores.csv"))
+          here("data","tidy","lextpt_scores.csv"))

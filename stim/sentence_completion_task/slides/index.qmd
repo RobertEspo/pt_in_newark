@@ -53,7 +53,7 @@ for (i in seq_len(nrow(stim_randomized))) {
 
 ```{r}
 # output randomized trials as csv
-dat_dir <- here("data","pilot_tidy","audio","sentence_completion_task","trials")
+dat_dir <- here("data","audio","sentence_completion_task","trials")
 
 # list existing files in dir
 existing_files <- list.files(path = dat_dir, pattern = "^[0-9]+")
@@ -71,7 +71,7 @@ formatted_number <- sprintf("%03d", next_number)
 new_filename <- paste0(formatted_number, ".csv")
 
 # get new file path
-new_file_path <- here("data","pilot_tidy","audio","sentence_completion_task","trials",new_filename)
+new_file_path <- here("data","audio","sentence_completion_task","trials",new_filename)
 
 # write file
 write_csv(stim_randomized, new_file_path)
