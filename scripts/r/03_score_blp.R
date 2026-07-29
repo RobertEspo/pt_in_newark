@@ -5,6 +5,10 @@
 #
 # -----------------------------------------------------------------------------
 
+# load libs
+source(here::here("scripts","r","00_libs.R"))
+
+# load raw data
 raw_blp <- read_csv(here("data","pilot_raw","blp_pt-en_raw.csv"))
 
 # create lookup for questions
@@ -72,17 +76,54 @@ tidy_blp <- raw_blp %>%
         question_code %in% c("start_learning_1", "start_learning_2") ~
         20 - participant_response,
       
+      # language use is reported 0-100 but scored 0-10
+      block == "language_use" ~
+        participant_response / 10,
+      
       # everything else is scored as entered
       TRUE ~ participant_response
     )
   )
 
-write_csv(tidy_blp,
-          here("data","pilot_tidy","tidy_blp.csv"))
+# score adjustment for each block
+adjustment <- tibble(
+  block = c(
+    "language_history",
+    "language_use",
+    "language_proficiency",
+    "language_attitude"
+  ),
+  adjustment = c(0.454, 1.09, 2.27, 2.27)
+)
 
+# add up scores for each block in each language
+# add weighted score based on adjustment
 block_scores <- tidy_blp %>%
   group_by(participant_id, language, block) %>%
   summarise(
     block_score = sum(points),
     .groups = "drop"
+  ) %>%
+  left_join(adjustment, by = "block") %>%
+  mutate(weighted_score = block_score * adjustment)
+
+blp_scores_by_language <- block_scores %>%
+  group_by(participant_id, language) %>%
+  summarise(
+    blp_score = sum(weighted_score),
+    .groups = "drop"
   )
+
+blp_scores <- blp_scores_by_language %>%
+  select(participant_id, language, blp_score) %>%
+  pivot_wider(
+    names_from = language,
+    values_from = blp_score
+  ) %>%
+  mutate(
+    blp_score = portuguese - english
+  ) %>%
+  select(participant_id, blp_score)
+
+write_csv(blp_scores,
+          here("data","pilot_tidy","blp_scores.csv"))

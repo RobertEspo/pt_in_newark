@@ -65,16 +65,12 @@ tidy_lextpt <- raw_lextpt %>%
       TRUE ~ 0
     )
   )
-
-# write tidy data
-write_csv(tidy_lextpt,
-          here("data","pilot_tidy","tidy_lextpt.csv"))
   
 # calculate lextale scores
 lextpt_scores <- tidy_lextpt %>%
   group_by(participant_id) %>%
   summarise(
-    score = sum(trial_score),
+    lextpt_score = sum(trial_score),
     .groups = "drop"
   )
 
