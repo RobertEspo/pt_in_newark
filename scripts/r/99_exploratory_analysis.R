@@ -14,7 +14,7 @@ source(here::here("scripts", "r", "06_load_data.R"))
 
 # BLP scores
 # Note that negative scores = English-dominant
-p_blp_distribution <- blp_scores %>%
+blp_scores %>%
   group_by(participant_id) %>%
   ggplot(aes(x = "", y = blp_score, color = blp_score)) +
   coord_cartesian(ylim = c(-218, 218)) +
@@ -35,7 +35,7 @@ p_blp_distribution <- blp_scores %>%
   ds4ling::ds4ling_bw_theme(base_size = 12)
 
 # LextPT scores
-p_lextpt_distribution <- lextpt_scores %>%
+lextpt_scores %>%
   group_by(participant_id) %>%
   ggplot(aes(x = "", y = lextpt_score)) +
   geom_violin(fill = "black", alpha = 0.5) +
@@ -130,13 +130,17 @@ ggplot(blp_lextpt, aes(x = blp_score, y = lextpt_score)) +
   ) +
   ds4ling::ds4ling_bw_theme(base_size = 12)
 
-
-
 # Gender/BLP
 
 # Gender/LextPT
 
 # Gender/Age/AoA
 
+################################################################################
+# %%% LexTALE analysis
 
+# Signal Detection
+# ########## |    Response "No"   | Response "Yes"
+# Target     |        Miss        |    Hit
+# Distractor |  Correct Rejection | False Alarm
 

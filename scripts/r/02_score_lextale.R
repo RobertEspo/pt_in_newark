@@ -74,6 +74,9 @@ lextpt_scores <- tidy_lextpt %>%
     .groups = "drop"
   )
 
+# Min score = -20
+# Max score = 60
+
 # write lextale scores
 write_csv(lextpt_scores,
           here("data","tidy","lextpt_scores.csv"))
