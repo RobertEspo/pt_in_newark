@@ -11,16 +11,7 @@ source(here::here("scripts","r","00_libs.R"))
 # load raw data
 survey_raw <- read_csv(here("data","raw","sociodialect_survey_raw.csv"))
 
-# create question look up
-survey_question_lookup <- survey_raw %>%
-  # first row has questions
-  slice(1) %>%
-  select(`Age`:last_col()) %>%
-  pivot_longer(
-    everything(),
-    names_to = "question_code",
-    values_to = "question"
-  )
+# rename question codes and questions
 
 survey_tidy <- survey_raw %>%
   # remove first two rows
@@ -38,6 +29,8 @@ survey_tidy <- survey_raw %>%
     names_to = "question_code",
     values_to = "participant_response"
   )
+
+# need to rename question codes
 
 # write csv
 write_csv(survey_tidy,

@@ -7,6 +7,9 @@
 #
 # -----------------------------------------------------------------------------
 
+# load libs
+source(here::here("scripts","r","00_libs.R"))
+
 # load lextpt key
 lextpt_key <- read_csv(here("stim","lextale","lextpt_key.csv"))
 
@@ -63,6 +66,14 @@ tidy_lextpt <- raw_lextpt %>%
       real == 1 & participant_response == 1 ~ 1,
       real == 0 & participant_response == 1 ~ -2,
       TRUE ~ 0
+    ),
+    # let's code this using signal detection theory, too
+    signal_detection = case_when(
+      real == 1 & participant_response == 1 ~ "hit",
+      real == 0 & participant_response == 1 ~ "false alarm",
+      real == 1 & participant_response == 0 ~ "miss",
+      real == 0 & participant_response == 0 ~ "correct rejection",
+      TRUE ~ NA
     )
   )
   

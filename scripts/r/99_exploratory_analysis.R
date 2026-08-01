@@ -144,3 +144,32 @@ ggplot(blp_lextpt, aes(x = blp_score, y = lextpt_score)) +
 # Target     |        Miss        |    Hit
 # Distractor |  Correct Rejection | False Alarm
 
+tidy_lextpt %>%
+  count(participant_id, signal_detection) %>%
+  ggplot(aes(x = reorder(participant_id, n), y = n, fill = signal_detection)) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    x = "Participant",
+    y = "Trials",
+    fill = "Response"
+  )
+
+tidy_lextpt %>%
+  count(signal_detection) %>%
+  mutate(prop = n / sum(n)) %>%
+  ggplot(aes(x = signal_detection, y = prop, fill = signal_detection)) +
+  geom_col(show.legend = FALSE) +
+  scale_y_continuous(labels = scales::percent) +
+  labs(
+    x = NULL,
+    y = "Percentage of trials"
+  )
+
+sdt_summary <- tidy_lextpt %>%
+  filter(pt_word != "exhausto") %>%
+  group_by(participant_id) %>%
+  summarise(
+    hit_rate = mean(signal_detection[real == 1] == "hit"),
+    false_alarm_rate = mean(signal_detection[real == 0] == "false alarm")
+  )
