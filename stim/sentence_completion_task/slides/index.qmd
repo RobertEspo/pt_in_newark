@@ -10,9 +10,9 @@ execute:
 ```{r}
 ### WARNING ###
 # When you render this file, a .csv file with the randomized trial order
-# will be generated in data/tidy/audio/sentence_completion_task/trials folder.
+# will be generated in data/audio/sentence_completion_task/trials folder.
 # The name will be generated based on what's already in the folder
-# (e.g., 000, 001, 002 ...)
+# (e.g., 001, 002, 003 ...)
 # The name matches the participant's ID.
 
 library(here)
@@ -52,13 +52,15 @@ for (i in seq_len(nrow(stim_randomized))) {
 ```
 
 ```{r}
-# output randomized trials as csv
+# output randomized trials as csv #
+
+# directory where csv will be stored
 dat_dir <- here("data","audio","sentence_completion_task","trials")
 
 # list existing files in dir
 existing_files <- list.files(path = dat_dir, pattern = "^[0-9]+")
 
-# get ID numbers
+# get existing ID numbers
 existing_numbers <- as.numeric(gsub("^([0-9]+).*", "\\1", existing_files))
 
 # assign current presentation following number
