@@ -1,5 +1,5 @@
 This contains data for sentence completion task.
-Folders named after participant IDs contain wavs and textgrids for each individual sentence of the task.
-"acoustics" contains extracted acoustic information.
-"master_wavs" contains the original, raw wav file from each participant.
-"trials" contains information on trial order for each participant.
+
+'sentence_completion_corpus' contains all the wavs and textgrids of all participants for each item.
+'trials' contains csv files that identify what item number for each participant corresponds to which sentence.
+'textgrid_drafts' contains all uncorrected textgrids and their corresponding wavs. this will be deleted once all textgrids have been corrected.

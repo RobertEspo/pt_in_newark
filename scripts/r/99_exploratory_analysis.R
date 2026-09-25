@@ -40,7 +40,7 @@ lextpt_scores %>%
   ggplot(aes(x = "", y = lextpt_score)) +
   geom_violin(fill = "black", alpha = 0.5) +
   geom_boxplot(width = 0.2, fill = "grey80", outlier.shape = NA) +
-  geom_jitter(width = 0.08, size = 2, alpha = 0.9) +
+  geom_jitter(height = 0, width = 0.08, size = 2, alpha = 0.9) +
   labs(x = NULL, y = "LextPT score") +
   ds4ling::ds4ling_bw_theme(base_size = 12)
 
@@ -167,9 +167,10 @@ tidy_lextpt %>%
   )
 
 sdt_summary <- tidy_lextpt %>%
-  filter(pt_word != "exhausto") %>%
   group_by(participant_id) %>%
   summarise(
     hit_rate = mean(signal_detection[real == 1] == "hit"),
-    false_alarm_rate = mean(signal_detection[real == 0] == "false alarm")
+    false_alarm_rate = mean(signal_detection[real == 0] == "false alarm"),
+    d_prime = qnorm(hit_rate) - qnorm(false_alarm_rate),
+    criterion = -(qnorm(hit_rate) + qnorm(false_alarm_rate)) / 2
   )

@@ -1,1 +1,0 @@
-Contains master wav file for sentence completion task for each participant. This wav is then spliced into each individual sentence.

@@ -43,7 +43,7 @@ tidy_blp <- raw_blp %>%
   slice(-(1:2)) %>%
   # give better names
   rename(
-    duration = `Duration (in seconds)`,
+    blp_duration = `Duration (in seconds)`,
     date = RecordedDate,
     participant_id = participant_code
   ) %>%
@@ -64,7 +64,7 @@ tidy_blp <- raw_blp %>%
   # select only relevant cols
   select(
     participant_id,
-    duration,
+    blp_duration,
     date,
     question_code:language
   ) %>%

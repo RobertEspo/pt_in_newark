@@ -18,7 +18,7 @@ survey_tidy <- survey_raw %>%
   slice(-(1:2)) %>%
   # give better names
   select(
-    duration = `Duration (in seconds)`,
+    survey_duration = `Duration (in seconds)`,
     date = RecordedDate,
     participant_id = Participant_code,
     `Age`:last_col()

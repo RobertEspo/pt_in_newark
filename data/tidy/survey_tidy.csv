@@ -1,0 +1,122 @@
+survey_duration,date,participant_id,question_code,participant_response
+651,2026-09-24 11:53:12,001,Age,27
+651,2026-09-24 11:53:12,001,Gender,Female
+651,2026-09-24 11:53:12,001,Origin_pais,Portugal
+651,2026-09-24 11:53:12,001,Origin_pais_14_TEXT,NA
+651,2026-09-24 11:53:12,001,Origin_city,Lisboa
+651,2026-09-24 11:53:12,001,Origin_USborn_mother_1,NA
+651,2026-09-24 11:53:12,001,Origin_USborn_mother_2,NA
+651,2026-09-24 11:53:12,001,Origin_USborn_father_1,NA
+651,2026-09-24 11:53:12,001,Origin_USborn_father_2,NA
+651,2026-09-24 11:53:12,001,Edu_level,Universidade
+651,2026-09-24 11:53:12,001,Edu_loc_primary,Estados Unidos
+651,2026-09-24 11:53:12,001,Edu_loc_primary_14_TEXT,NA
+651,2026-09-24 11:53:12,001,Edu_loc_secondary,"Estados Unidos,Portugal,Outro lugar:"
+651,2026-09-24 11:53:12,001,Edu_loc_secondary_14_TEXT,Espanha
+651,2026-09-24 11:53:12,001,Edu_loc_universidade,Estados Unidos
+651,2026-09-24 11:53:12,001,Edu_loc_universidade_14_TEXT,NA
+651,2026-09-24 11:53:12,001,Edu_loc_postgrad,NA
+651,2026-09-24 11:53:12,001,Edu_loc_postgrad_14_TEXT,NA
+651,2026-09-24 11:53:12,001,EDU_notes,NA
+651,2026-09-24 11:53:12,001,SES_1,Trabalhadora
+651,2026-09-24 11:53:12,001,SES_2,NA
+651,2026-09-24 11:53:12,001,SES_notes,NA
+651,2026-09-24 11:53:12,001,AoA,0
+651,2026-09-24 11:53:12,001,Years_in_nj,22
+651,2026-09-24 11:53:12,001,Arrival_notes,Social class: contractor/entrepreneur
+651,2026-09-24 11:53:12,001,Other_locales_y_n,Si
+651,2026-09-24 11:53:12,001,Other_locales_info_1,Pennsylvania
+651,2026-09-24 11:53:12,001,Other_locales_info_2,1
+651,2026-09-24 11:53:12,001,Other_locales_notes,NA
+651,2026-09-24 11:53:12,001,Contact_groups,"Brasil,Estados Unidos,Portugal"
+651,2026-09-24 11:53:12,001,Contact_groups_14_TEXT,NA
+651,2026-09-24 11:53:12,001,Contacts_notes,NA
+651,2026-09-24 11:53:12,001,Açores_contact_1,NA
+651,2026-09-24 11:53:12,001,Açores_contact_2,NA
+651,2026-09-24 11:53:12,001,Açores_contact_3,NA
+651,2026-09-24 11:53:12,001,Açores_contact_4,NA
+651,2026-09-24 11:53:12,001,Açores_contact_5,NA
+651,2026-09-24 11:53:12,001,Açores_notes,NA
+651,2026-09-24 11:53:12,001,Angola_contact_1,NA
+651,2026-09-24 11:53:12,001,Angola_contact_2,NA
+651,2026-09-24 11:53:12,001,Angola_contact_3,NA
+651,2026-09-24 11:53:12,001,Angola_contact_4,NA
+651,2026-09-24 11:53:12,001,Angola_contact_5,NA
+651,2026-09-24 11:53:12,001,Angola_notes,NA
+651,2026-09-24 11:53:12,001,Brasil_contact_1,Várias vezes por semana
+651,2026-09-24 11:53:12,001,Brasil_contact_2,Várias vezes por semana
+651,2026-09-24 11:53:12,001,Brasil_contact_3,Várias vezes por semana
+651,2026-09-24 11:53:12,001,Brasil_contact_4,Menos de uma vez por mês
+651,2026-09-24 11:53:12,001,Brasil_contact_5,Cada semana
+651,2026-09-24 11:53:12,001,Brasil_region_contac_1,Não sei
+651,2026-09-24 11:53:12,001,Brasil_region_contac_2,Não sei
+651,2026-09-24 11:53:12,001,Brasil_region_contac_3,Não sei
+651,2026-09-24 11:53:12,001,Brasil_region_contac_4,Não sei
+651,2026-09-24 11:53:12,001,Brasil_region_contac_5,Não sei
+651,2026-09-24 11:53:12,001,Brasil_notes,NA
+651,2026-09-24 11:53:12,001,Cabo_Verde_contact_1,NA
+651,2026-09-24 11:53:12,001,Cabo_Verde_contact_2,NA
+651,2026-09-24 11:53:12,001,Cabo_Verde_contact_3,NA
+651,2026-09-24 11:53:12,001,Cabo_Verde_contact_4,NA
+651,2026-09-24 11:53:12,001,Cabo_Verde_contact_5,NA
+651,2026-09-24 11:53:12,001,Cabo_verde_notes,NA
+651,2026-09-24 11:53:12,001,EUA_contact_1,Menos de uma vez por mês
+651,2026-09-24 11:53:12,001,EUA_contact_2,Menos de uma vez por mês
+651,2026-09-24 11:53:12,001,EUA_contact_3,Menos de uma vez por mês
+651,2026-09-24 11:53:12,001,EUA_contact_4,Uma vez por mês
+651,2026-09-24 11:53:12,001,EUA_contact_5,Menos de uma vez por mês
+651,2026-09-24 11:53:12,001,EUA_notes,NA
+651,2026-09-24 11:53:12,001,Guiné-Bissau_contact_1,NA
+651,2026-09-24 11:53:12,001,Guiné-Bissau_contact_2,NA
+651,2026-09-24 11:53:12,001,Guiné-Bissau_contact_3,NA
+651,2026-09-24 11:53:12,001,Guiné-Bissau_contact_4,NA
+651,2026-09-24 11:53:12,001,Guiné-Bissau_contact_5,NA
+651,2026-09-24 11:53:12,001,Guiné_Bissau_notes,NA
+651,2026-09-24 11:53:12,001,Guiné_Eq_contact_1,NA
+651,2026-09-24 11:53:12,001,Guiné_Eq_contact_2,NA
+651,2026-09-24 11:53:12,001,Guiné_Eq_contact_3,NA
+651,2026-09-24 11:53:12,001,Guiné_Eq_contact_4,NA
+651,2026-09-24 11:53:12,001,Guiné_Eq_contact_5,NA
+651,2026-09-24 11:53:12,001,Guiné_Eq_notes,NA
+651,2026-09-24 11:53:12,001,Macau_contact_1,NA
+651,2026-09-24 11:53:12,001,Macau_contact_2,NA
+651,2026-09-24 11:53:12,001,Macau_contact_3,NA
+651,2026-09-24 11:53:12,001,Macau_contact_4,NA
+651,2026-09-24 11:53:12,001,Macau_contact_5,NA
+651,2026-09-24 11:53:12,001,Macau_notes,NA
+651,2026-09-24 11:53:12,001,Madeira_contact_1,NA
+651,2026-09-24 11:53:12,001,Madeira_contact_2,NA
+651,2026-09-24 11:53:12,001,Madeira_contact_3,NA
+651,2026-09-24 11:53:12,001,Madeira_contact_4,NA
+651,2026-09-24 11:53:12,001,Madeira_contact_5,NA
+651,2026-09-24 11:53:12,001,Madeira_notes,NA
+651,2026-09-24 11:53:12,001,Moçambique_contact_1,NA
+651,2026-09-24 11:53:12,001,Moçambique_contact_2,NA
+651,2026-09-24 11:53:12,001,Moçambique_contact_3,NA
+651,2026-09-24 11:53:12,001,Moçambique_contact_4,NA
+651,2026-09-24 11:53:12,001,Moçambique_contact_5,NA
+651,2026-09-24 11:53:12,001,Moçambique_notes,NA
+651,2026-09-24 11:53:12,001,Portugal_1,Diariamente
+651,2026-09-24 11:53:12,001,Portugal_2,Várias vezes por semana
+651,2026-09-24 11:53:12,001,Portugal_3,Cada semana
+651,2026-09-24 11:53:12,001,Portugal_4,Uma vez por mês
+651,2026-09-24 11:53:12,001,Portugal_5,Cada semana
+651,2026-09-24 11:53:12,001,Portugal_notes,NA
+651,2026-09-24 11:53:12,001,São_Tomé_contact_1,NA
+651,2026-09-24 11:53:12,001,São_Tomé_contact_2,NA
+651,2026-09-24 11:53:12,001,São_Tomé_contact_3,NA
+651,2026-09-24 11:53:12,001,São_Tomé_contact_4,NA
+651,2026-09-24 11:53:12,001,São_Tomé_contact_5,NA
+651,2026-09-24 11:53:12,001,São_Tomé_notes,NA
+651,2026-09-24 11:53:12,001,Timor-Leste_contact_1,NA
+651,2026-09-24 11:53:12,001,Timor-Leste_contact_2,NA
+651,2026-09-24 11:53:12,001,Timor-Leste_contact_3,NA
+651,2026-09-24 11:53:12,001,Timor-Leste_contact_4,NA
+651,2026-09-24 11:53:12,001,Timor-Leste_contact_5,NA
+651,2026-09-24 11:53:12,001,Timor_Leste_notes,NA
+651,2026-09-24 11:53:12,001,Other_contact_1,NA
+651,2026-09-24 11:53:12,001,Other_contact_2,NA
+651,2026-09-24 11:53:12,001,Other_contact_3,NA
+651,2026-09-24 11:53:12,001,Other_contact_4,NA
+651,2026-09-24 11:53:12,001,Other_contact_5,NA
+651,2026-09-24 11:53:12,001,Other_notes,NA

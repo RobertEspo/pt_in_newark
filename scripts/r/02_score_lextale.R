@@ -49,7 +49,7 @@ tidy_lextpt <- raw_lextpt %>%
   transmute(
     participant_id,
     date,
-    duration,
+    lextale_duration = duration,
     pt_word = word(question,-1),
     participant_response = word(participant_response,-1),
     participant_response = if_else(
@@ -67,6 +67,7 @@ tidy_lextpt <- raw_lextpt %>%
       real == 0 & participant_response == 1 ~ -2,
       TRUE ~ 0
     ),
+    
     # let's code this using signal detection theory, too
     signal_detection = case_when(
       real == 1 & participant_response == 1 ~ "hit",
@@ -78,6 +79,7 @@ tidy_lextpt <- raw_lextpt %>%
   )
   
 # calculate lextale scores
+
 lextpt_scores <- tidy_lextpt %>%
   group_by(participant_id) %>%
   summarise(
@@ -85,7 +87,7 @@ lextpt_scores <- tidy_lextpt %>%
     .groups = "drop"
   )
 
-# Min score = -20
+# Min score = -60
 # Max score = 60
 
 # write lextale scores

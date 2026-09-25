@@ -1,0 +1,28 @@
+Steps I use to run RePAST_v1.0.0 on my Windows 11, which generates and aligns textgrids. I unfortunately don't remember the steps I took to get it all set up.
+
+1. open WSL (ubuntu)
+2. activate environment: 'conda activate transcriber'
+3. change directory: 'cd /mnt/c/Users/rober/Desktop/RePAST_v1.0.0'
+4. run main script: 'python 99_main.py'
+5. Configurations:
+
+ Setting                   Value
+ Phase 1                   Enabled
+ ├─ Input Directory        ./original_audio
+ ├─ Output Directory       ./preprocessed_audio
+ ├─ Enhancement Level      0 - None
+ ├─ Debug Mode             No
+ ├─ Multiprocessing        No
+ └─ Verbose Logging        No
+ Phase 2                   Enabled
+ ├─ Transcription Output   ./initial_transcription
+ ├─ Language               pt
+ ├─ Model                  base
+ ├─ Diarization            No
+ │  ├─ Silence Threshold   -28 dB
+ │  └─ Min Silence Length  100 ms
+ Phase 3                   Enabled
+ ├─ Alignment Language     Portuguese
+ ├─ Syllabification        No
+ └─ POS Tagging            No
+ Mode                      Interactive

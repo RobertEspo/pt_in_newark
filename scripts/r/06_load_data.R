@@ -22,6 +22,6 @@ source(here("scripts","r","05_tidy_acoustic.R"))
 
 #gc()
 
-# combine EVERYTHING into one giant df
-master_df <- blp_scores %>% left_join(lextpt_scores, by = "participant_id") %>%
-  left_join(acoustics, by = "participant_id")
+# combine all tasks into one df
+master_df <- blp_scores %>% left_join(lextpt_scores, by = "participant_id")
+  # %>% left_join(acoustics, by = "participant_id")
