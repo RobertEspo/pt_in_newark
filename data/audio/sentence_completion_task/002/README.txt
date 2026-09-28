@@ -1,1 +1,5 @@
 These are just the recordings ripped directly from the SD card for participant 002. I need to listen to them all because he messed up a few times.
+
+TRIALS THAT WERE SKIPPED:
+3
+36
