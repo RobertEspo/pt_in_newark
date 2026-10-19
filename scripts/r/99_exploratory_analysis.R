@@ -123,11 +123,22 @@ blp_lextpt <- blp_scores %>%
 
 ggplot(blp_lextpt, aes(x = blp_score, y = lextpt_score)) +
   geom_point(size = 2, alpha = 0.8) +
-  geom_smooth(method = "lm", se = TRUE) +
+  geom_text(
+    aes(label = paste(
+      participant_id,
+      paste0("LextPT: ", lextpt_score),
+      paste0("BLP: ", blp_score),
+      sep = "\n"
+    )),
+    vjust = -0.5
+  ) +
+  geom_smooth(method = "lm", se = F) +
   labs(
     x = "Bilingual Language Profile score",
     y = "LextPT score"
   ) +
+  coord_cartesian(ylim = c(30,61),
+                  xlim = c(-85,52)) +
   ds4ling::ds4ling_bw_theme(base_size = 12)
 
 # Gender/BLP
