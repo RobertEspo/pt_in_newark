@@ -1,4 +1,4 @@
-Steps I use to run RePAST_v1.0.0 on my Windows 11, which generates and aligns textgrids. I unfortunately don't remember the steps I took to get it all set up.
+Steps I use to run RePAST_v1.0.0 on Windows 11, which generates and aligns textgrids. I unfortunately don't remember the steps I took to get it all set up :-(
 
 1. open WSL (ubuntu)
 2. activate environment: 'conda activate transcriber'
